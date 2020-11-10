@@ -1,5 +1,5 @@
 ---
-title: Add Single Pages
+title: But I'm A Cheerleader
 ---
 
 ## Add Single Pages

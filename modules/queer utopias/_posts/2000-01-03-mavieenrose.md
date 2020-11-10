@@ -1,5 +1,5 @@
 ---
-title: Required Setup
+title: Ma Vie En Rose
 ---
 
 ## Required Setup
@@ -8,7 +8,7 @@ Once you’re logged in to GitHub, the first step of creating a course is to cop
 
 To start, head to [P2PU’s course-in-a-box project](https://github.com/p2pu/course-in-a-box) and click “Fork” in the top right, or simply click the button below:
 
-<a class="btn btn-primary" href="https://github.com/p2pu/course-in-a-box/fork" target="_blank"><i class="fa fa-code-fork"></i> Fork this repository on GitHub</a> 
+<a class="btn btn-primary" href="https://github.com/p2pu/course-in-a-box/fork" target="_blank"><i class="fa fa-code-fork"></i> Fork this repository on GitHub</a>
 
 <br>
 
@@ -21,11 +21,11 @@ Click the file to open it:
 
 Once open, click the trash can icon in the upper right side of the code section to delete the file. On the confirmation page, click the green “Commit changes” button to update (“commit”) your change and return you to the file list.
 
-<br> 
+<br>
 
 #### Your course is now live!
 
-You can view it by going to 
+You can view it by going to
 
 [https://your-github-username.github.io/course-in-a-box/](https://your-github-username.github.io/course-in-a-box/)
 
