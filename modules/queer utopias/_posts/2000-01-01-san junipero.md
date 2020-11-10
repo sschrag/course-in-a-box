@@ -1,5 +1,5 @@
 ---
-title: "San Junipero" in Black Mirror
+title: San Junipero in Black Mirror
 ---
 
 ## Required Setup
