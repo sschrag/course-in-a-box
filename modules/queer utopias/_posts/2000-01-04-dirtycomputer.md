@@ -1,5 +1,5 @@
 ---
-title: *Dirty Computer*
+title: Dirty Computer
 ---
 
 ## Required Setup

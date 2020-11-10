@@ -1,5 +1,5 @@
 ---
-title: *Pose* and *Kiki*
+title: Pose and Kiki
 ---
 
 ## Required Setup

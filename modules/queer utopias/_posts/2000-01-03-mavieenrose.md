@@ -1,5 +1,5 @@
 ---
-title: *Ma Vie En Rose*
+title: Ma Vie En Rose
 ---
 
 ## Required Setup
