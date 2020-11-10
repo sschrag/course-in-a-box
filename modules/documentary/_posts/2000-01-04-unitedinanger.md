@@ -1,5 +1,5 @@
 ---
-title: United in Anger
+title: *United in Anger*
 ---
 
 ## My first module
