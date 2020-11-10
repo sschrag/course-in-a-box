@@ -2,7 +2,7 @@
 title: Getting Started with GitHub
 ---
 
-## Getting Started with GitHub
+## My first module
 
 Course-in-a-Box courses are websites that are edited and hosted through GitHub, a web-based service for managing code and collaborating on projects. To start, you'll need a (free) [GitHub account](https://github.com/join).
 
