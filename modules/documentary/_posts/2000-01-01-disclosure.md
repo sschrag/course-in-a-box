@@ -1,5 +1,5 @@
 ---
-title: *Disclosure*
+title: Disclosure
 ---
 
 ## My first module

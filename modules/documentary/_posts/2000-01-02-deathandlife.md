@@ -1,5 +1,5 @@
 ---
-title: *The Death and Life of Marsha P. Johnson*
+title: The Death and Life of Marsha P. Johnson
 ---
 
 ## My first module

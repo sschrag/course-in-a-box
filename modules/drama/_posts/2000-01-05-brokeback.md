@@ -1,5 +1,5 @@
 ---
-title: *Brokeback Mountain*
+title: Brokeback Mountain
 ---
 
 ## Add Single Pages
