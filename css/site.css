@@ -1,8 +1,12 @@
 h1, h2, h3, h4 {
-  margin-bottom: 1em;
+  /* margin-bottom: 1em; */
 }
 
 table, table td, table th {
   border: 1px solid #777;
   font-size: 15px;
+}
+
+section {
+  line-height: 1.4;
 }
