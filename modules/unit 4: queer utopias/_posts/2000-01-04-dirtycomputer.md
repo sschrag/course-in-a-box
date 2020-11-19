@@ -9,9 +9,9 @@ title: Dirty Computer
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A9k89DYdHKQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Film background**
+**Film background:**
 
-**Plot summary**
+**Plot summary:**
 
 **Content warnings**: Some sexually suggestive imagery.
 
@@ -23,4 +23,4 @@ title: Dirty Computer
 * Screening quiz
 * Secondary texts:
   * Day 2:
-  * Day 3: 
+  * Day 3:
