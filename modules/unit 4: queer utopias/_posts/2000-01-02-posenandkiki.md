@@ -5,7 +5,7 @@ title: Pose and Kiki
 
 ### *Pose* (2018)
 
-![alt](https://lh3.googleusercontent.com/proxy/GsYUmtkgJPIpM_oXS2wEa_p88CqQzGsyTBrfM2qLP_dDGL4C0VUq4Nk8BnXwWwr0bI9vhrUfYYSxzSFDaEK2A5nqwvngupd_5bROjSg0)
+![alt](https://cdn.cinematerial.com/p/297x/78e0qhjg/pose-movie-poster-md.jpg?v=1539966578)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_t4YuPXdLZw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
