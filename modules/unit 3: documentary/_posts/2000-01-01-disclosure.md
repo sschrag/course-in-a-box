@@ -3,7 +3,7 @@ title: Disclosure
 ---
 # *Disclosure* (2020)
 
-![alt](https://static.wikia.nocookie.net/netflix/images/6/6a/Disclosure_Poster.jpg/revision/latest?cb=20200619204919)
+![alt](https://static.wikia.nocookie.net/netflix/images/6/6a/Disclosure_Poster.jpg)
 
 **Trailer:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2eF4m5AJhpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
