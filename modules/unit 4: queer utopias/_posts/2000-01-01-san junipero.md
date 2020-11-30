@@ -1,7 +1,7 @@
 ---
 title: San Junipero in Black Mirror
 ---
-# *San Junipero* (2016)
+# "San Junipero" in *Black Mirror* (2016)
 
 ![alt](https://cdn.theatlantic.com/thumbor/pj44YPs3ps7xZMgMmjFu7m64y50=/0x228:5760x3468/720x405/media/img/mt/2016/10/BlackMirror_EP1_san_junipero_0282r/original.jpg)
 
