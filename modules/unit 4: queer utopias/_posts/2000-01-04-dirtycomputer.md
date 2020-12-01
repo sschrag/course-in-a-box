@@ -24,5 +24,5 @@ Content warnings: Dirty Computer contains some sexually suggestive imagery.
 * Lesson plans
 * Screening quiz
 * Secondary texts:
-    * Day 2: Vernallis, Carol, Gabriel Zane Ellis, et. al. “Janelle Monae’s Dirty Computer Music Video/Film: A Collective Reading.” Journal of the Society for American Music, vol. 13, no. 2, 2019, pp. 250-271.  
-    * Day 3: Dery, Mark. "Black to The Future: Interviews with Samuel R. Delaney, Greg Tate and Tricia Rose" in *Flame Wars: The Discourse of Cyberculture.* Durham, NC: Duke UP, 1994. 
+    * Day 2: Vernallis, Carol, Gabriel Zane Ellis, et. al. “Janelle Monae’s Dirty Computer Music Video/Film: A Collective Reading.” Journal of the Society for American Music, vol. 13, no. 2, 2019, pp. 250-271.[<a href="/modules/unit 4 queer utopias/Dirty Computer A Collective Reading.pdf" download>pdf</a>] 
+    * Day 3: Dery, Mark. "Black to The Future: Interviews with Samuel R. Delaney, Greg Tate and Tricia Rose" in *Flame Wars: The Discourse of Cyberculture.* Durham, NC: Duke UP, 1994.[<a href="/modules/unit 4: queer utopias/Black to the Future" download>pdf</a>]
