@@ -21,8 +21,8 @@ title: Dirty Computer
 
 **Materials for this week:**
 
-* Lesson plans
-* Screening quiz [<a href="/modules/unit 4: queer utopias/Dirty Computer Screening Quiz.docx" download>Word doc</a>
+* Lesson plans [<a href="/modules/unit 4: queer utopias/Dirty Computer LP.docx" download>Word doc</a>]
+* Screening quiz [<a href="/modules/unit 4: queer utopias/Dirty Computer Screening Quiz.docx" download>Word doc</a>]
 * Secondary texts:
     * Day 2: Vernallis, Carol, Gabriel Zane Ellis, et. al. “Janelle Monae’s Dirty Computer Music Video/Film: A Collective Reading.” Journal of the Society for American Music, vol. 13, no. 2, 2019, pp. 250-271.[<a href="/modules/unit 4: queer utopias/Dirty Computer A Collective Reading.pdf" download>pdf</a>] (Recommended excerpts: p. 253-258; p. 265-270)
     * Day 3: Dery, Mark. "Black to The Future: Interviews with Samuel R. Delaney, Greg Tate and Tricia Rose" in *Flame Wars: The Discourse of Cyberculture.* Durham, NC: Duke UP, 1994.[<a href="/modules/unit 4: queer utopias/Black to the Future.pdf" download>pdf</a>] (Recommended excerpts: p. 187-191; 207-215)
