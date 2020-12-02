@@ -10,3 +10,10 @@ table, table td, table th {
 section, .content {
   line-height: 1.4;
 }
+
+
+.poster {
+  max-width: 50%;
+  float: left;
+  margin: 0px 15px 15px 0px;
+}
