@@ -8,8 +8,8 @@
 // Color system
 //
 
-$gray-darker:           #260273;
-$gray-dark:             #8C0375;
+$gray-darker:           #515665;
+$gray-dark:             #707782;
 $gray:                  #AAB0BF;
 $gray-light:            #D3D8E6;
 $gray-lighter:          #F3F4F8;
@@ -27,6 +27,9 @@ $gray-700: #495057 !default;
 $gray-800: $gray-dark;
 $gray-900: $gray-darker;
 $black:    #000 !default;
+
+$bi-darkblue:           #260273;
+$bi-lightpink:          #8C0375;
 
 $grays: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
