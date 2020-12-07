@@ -28,6 +28,9 @@ $gray-800: $gray-dark;
 $gray-900: $gray-darker;
 $black:    #000 !default;
 
+$bi-darkblue:           #260273;
+$bi-lightpink:          #8C0375;
+
 $grays: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
 $grays: map-merge(

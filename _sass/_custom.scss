@@ -13,19 +13,21 @@ body {
 
 .navbar {
   a, .nav-link, button {
-    color: rgba(255, 255, 255, 0.8);
+    color: #62CBC0;
     text-transform: uppercase;
+		font-weight: 600;
   }
 }
 
 .nav-item.active, .nav-item:hover {
-  background-color: #707782;
+  background-color: $bi-lightpink;
 	transition: all 0.3s linear;
 }
 
 .nav-link{
   padding-left: 1em !important;
-  padding-right: 1em !important;
+  padding-right: 1em !important
+	font
 }
 
 .jumbotron {
@@ -278,3 +280,7 @@ footer {
     transition: all 0.3s linear;
   }
 }
+
+// .bg-dark {
+// 	background-color: $bi-darkblue !important;
+// }
