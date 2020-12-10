@@ -25,7 +25,7 @@ title: Moonlight
 
 **Running time:** 1 h, 51 m
 
-**Note:** This week, we are reading two articles that specifically address *Moonlight,* rather than one on *Moonlight* and one work that does not address the film. This is because there are a plethora of fascinating articles on *Moonlight* that can be brought into dialogue with one another.
+**Note:** This week, we are reading two articles that specifically address *Moonlight,* rather than one on *Moonlight* and one work that does not address the film. This is because both of these articles are accessible, but slightly too long for a single night's assignment, and they provide interesting counterpoints for discussion.
 
 **Materials for this week:**
 * Lesson plans
