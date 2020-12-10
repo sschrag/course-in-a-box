@@ -25,7 +25,7 @@ title: Moonlight
 
 **Running time:** 1 h, 51 m
 
-**Note:** This week, we are reading three articles that specifically address *Moonlight,* rather than one on *Moonlight* and one work that does not address the film. This is because there are a plethora of fascinating articles on *Moonlight* that can be brought into dialogue with one another.
+**Note:** This week, we are reading three articles that specifically address *Moonlight,* rather than one on *Moonlight* and one work that does not address the film. This is because there are a plethora of fascinating articles on *Moonlight* that can be brought into dialogue with one another. If you want to drop one reading, you might want to drop "Eclipsed;" eliminating this reading would simply involve reframing Day 3's lesson slightly to focus on Stallings' piece and its relationship to Johnson's piece.
 
 **Materials for this week:**
 * Lesson plans
@@ -33,3 +33,4 @@ title: Moonlight
 * Secondary texts:
     * Day 2: Johnson, E. Patrick. "In the Quare Light of the Moon: Poverty, Sexuality, and Makeshift Masculinity in *Moonlight*." *The Western Journal of Black Studies* vol. 43, no. 3 & 4, 2019, pp. 70-80. [<a href="/modules/unit 2: drama/In the Quare Light of the Moon.pdf" download>pdf</a>]
     * Day 3: Stallings, L. H. "Am I A Faggot?" *GLQ: A Journal of Lesbian and Gay Studies* vol. 25, no. 2, 2019, pp. 342-351. [<a href="/modules/unit 2: drama/Am I A Faggot.pdf" download>pdf</a>]
+    * Day 3: Watkins-Hayes, Celeste, Rikki Byrd, and Candice Merritt. "Eclipsed: Darkness, Light and MOtherhood in the Sexualized Drug Economy of *Moonlight*." *Western Journal of Black Studies, vol. 43, no. 3 & 4, 2019, pp. 81-89. [a href="/modules/unit 2: drama/Eclipsed.pdf" download>pdf</a>]
