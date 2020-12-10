@@ -25,11 +25,11 @@ title: Moonlight
 
 **Running time:** 1 h, 51 m
 
-**Note:** This week, we are reading articles that specifically address *Moonlight,* rather than one on *Moonlight* and one work that does not address the film. This is because these two texts provide interesting counterpoints to one another, and both readings combined would be too long for one assignment.
+**Note:** This week, we are reading three articles that specifically address *Moonlight,* rather than one on *Moonlight* and one work that does not address the film. This is because there are a plethora of fascinating articles on *Moonlight* that can be brought into dialogue with one another.
 
 **Materials for this week:**
 * Lesson plans
-* Screening quiz
+* Screening quiz [<a href=modules/unit 2: drama/Moonlight Quiz.docx" download>Word doc</a>]
 * Secondary texts:
-    * Day 2: Johnson, E. Patrick. "In the Quare Light of the Moon: Poverty, Sexuality, and Makeshift Masculinity in *Moonlight*." *The Western Journal of Black Studies* vol. 43, no. 3 & 4, 2019, pp. 70-80.
-    * Day 3: Stallings, L. H. "Am I A Faggot?" *GLQ: A Journal of Lesbian and Gay Studies* vol. 25, no. 2, 2019, pp. 342-351. 
+    * Day 2: Johnson, E. Patrick. "In the Quare Light of the Moon: Poverty, Sexuality, and Makeshift Masculinity in *Moonlight*." *The Western Journal of Black Studies* vol. 43, no. 3 & 4, 2019, pp. 70-80. [<a href="/modules/unit 2: drama/modules/unit 2: drama/In the Quare Light of the Moon.pdf" download>pdf</a>]
+    * Day 3: Stallings, L. H. "Am I A Faggot?" *GLQ: A Journal of Lesbian and Gay Studies* vol. 25, no. 2, 2019, pp. 342-351. [a href="/modules/unit 2: drama/Am I A Faggot.pdf" download>pdf</a>]
