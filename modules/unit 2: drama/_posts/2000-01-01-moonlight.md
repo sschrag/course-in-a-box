@@ -28,7 +28,7 @@ title: Moonlight
 **Note:** This week, we are reading two articles that specifically address *Moonlight,* rather than one on *Moonlight* and one work that does not address the film. This is because both of these articles are accessible, but slightly too long for a single night's assignment, and they provide interesting counterpoints for discussion.
 
 **Materials for this week:**
-* Lesson plans [a href="modules/unit 2: drama/Moonlight LP.docx" download>Word doc</a>]
+* Lesson plans [a href="/modules/unit 2: drama/Moonlight LP.docx" download>Word doc</a>]
 * Screening quiz [<a href="modules/unit 2: drama/Moonlight Quiz.docx" download>Word doc</a>]
 * Secondary texts:
     * Day 2: Stallings, L. H. "Am I A Faggot?" *GLQ: A Journal of Lesbian and Gay Studies* vol. 25, no. 2, 2019, pp. 342-351. [<a href="/modules/unit 2: drama/Am I A Faggot.pdf" download>pdf</a>]
