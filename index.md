@@ -9,7 +9,7 @@ Welcome to my curriculum on queer cinema, designed for high school students. Cin
 ## Purpose
 The purpose of this course is to introduce students to two fields: **cinema studies** and **queer theory.** By close-reading representations of LGBTQ people in film and television, and analyzing these films using film criticism and queer theory, students will develop a strong grasp of critical concepts in both cinema studies and queer theory.
 
-* **Cinema Studies:** This course will introduce students to the standard tools of film analysis, analyzing elements like cinematography, sound, and editing, to close-read visual media. In addition, this course will build on students’ skills with the standard tools of literary analysis, such as symbol and motif analysis, applying those techniques to film and television. Students will also be reading scholarly works of film criticism to support this work.
+* **Cinema Studies:** This course will introduce students to the standard tools of film analysis, analyzing elements like cinematography, sound, and editing, to close-read audiovisual media. In addition, this course will build on students’ skills with the standard tools of literary analysis, such as symbol and motif analysis, applying those techniques to film and television. Students will also be reading scholarly works of film criticism to support this work.
 * **Queer Theory:** This course will also include the works of queer theorists whose work can be challenging to read in isolation but can become more comprehensible when examined in concert with cultural texts like the ones chosen for this course.
 
 ## Method
