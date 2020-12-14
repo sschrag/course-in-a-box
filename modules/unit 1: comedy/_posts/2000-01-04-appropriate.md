@@ -3,7 +3,9 @@ title: Appropriate Behavior
 ---
 # *Appropriate Behavior* (2014)
 
-![alt](https://lh3.googleusercontent.com/proxy/EyPmAwtWmSTvcgVuXpn5WZxg-gD1WYXVmk2PD7AjaxPayd5GLd-1mT6soIzLGL6qFnXByzj6ebnt--BotjveyqTR4EpkAMVVPvBotqORyhu-nZB3aeNdTGDzCEjcIGhqlrCh)
+<a href="https://www.peccapics.com/wp-content/uploads/2015/01/Appropriate-Behaviour-Quad-Compressed.jpg">
+<img src="https://www.peccapics.com/wp-content/uploads/2015/01/Appropriate-Behaviour-Quad-Compressed.jpg" class="poster">
+</a>
 
 **Trailer:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IjZ80dLFFfE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
