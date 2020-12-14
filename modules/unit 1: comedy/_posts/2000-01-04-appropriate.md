@@ -3,8 +3,8 @@ title: Appropriate Behavior
 ---
 # *Appropriate Behavior* (2014)
 
-<a href="https://www.peccapics.com/wp-content/uploads/2015/01/Appropriate-Behaviour-Quad-Compressed.jpg">
-<img src="https://www.peccapics.com/wp-content/uploads/2015/01/Appropriate-Behaviour-Quad-Compressed.jpg" class="poster">
+<a href="https://themovieq.files.wordpress.com/2015/12/appropriate-behaviour-poster.jpg">
+<img src="https://themovieq.files.wordpress.com/2015/12/appropriate-behaviour-poster.jpg" class="poster">
 </a>
 
 **Trailer:**
