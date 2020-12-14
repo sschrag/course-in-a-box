@@ -20,8 +20,15 @@ body {
 }
 
 .nav-item.active, .nav-item:hover {
-  background-color: $bi-lightpink;
 	transition: all 0.3s linear;
+}
+
+.nav-item.active {
+	background-color: $bi-lightpink;
+}
+
+.nav-item:hover {
+	background-color: $bi-mediumpink;
 }
 
 .nav-link{
