@@ -36,6 +36,7 @@ $bi-lightpink:          #8C0375;
 $bi-lighterpink:        #FFCCF7;
 $bi-lightestpink:       #F5E4F2;
 $bi-lightblue:          #EAF8FF;
+$bi-teal: #62CBC0;
 
 $grays: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
@@ -253,7 +254,7 @@ $line-height-sm:              1.2;
 $border-width:                1px !default;
 $border-color:                $gray-300 !default;
 
-$border-radius:               .25rem !default;
+$border-radius:               .5rem !default;
 $border-radius-lg:            .3rem !default;
 $border-radius-sm:            .2rem !default;
 

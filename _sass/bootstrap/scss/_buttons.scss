@@ -5,16 +5,17 @@
 //
 
 .btn {
-  display: inline-block;
+  display: block;
+  margin: 15px auto;
   font-family: $btn-font-family;
   font-weight: $btn-font-weight;
-  color: $body-color;
+  color: $white;
   text-align: center;
   text-decoration: if($link-decoration == none, null, none);
   white-space: $btn-white-space;
   vertical-align: middle;
   user-select: none;
-  background-color: transparent;
+  background-color: $bi-teal;
   border: $btn-border-width solid transparent;
   @include button-size($btn-padding-y, $btn-padding-x, $btn-font-size, $btn-line-height, $btn-border-radius);
   @include transition($btn-transition);
@@ -85,10 +86,6 @@ fieldset:disabled a.btn {
   color: $link-color;
   text-decoration: $link-decoration;
 
-  @include hover() {
-    color: $link-hover-color;
-    text-decoration: $link-hover-decoration;
-  }
 
   &:focus,
   &.focus {
