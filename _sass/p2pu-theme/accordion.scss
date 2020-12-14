@@ -57,11 +57,11 @@
 
     &:nth-of-type(4n+4) {
       .heading {
-        border-bottom: 4px solid $p2pu-blue;
+        border-bottom: 4px solid $bi-linkdarkblue;
       }
 
       a, a:hover, a:focus {
-        color: $p2pu-blue;
+        color: $bi-linkdarkblue;
       }
     }
 

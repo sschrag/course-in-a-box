@@ -29,6 +29,7 @@ $gray-900: $gray-darker;
 $black:    #000 !default;
 
 $bi-darkblue:           #260273;
+$bi-linkdarkblue:           #260273;
 $bi-mediumpink:         #A80F90;
 $bi-lightpink:          #8C0375;
 $bi-lighterpink:        #FFCCF7;
@@ -64,12 +65,12 @@ $green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
 
-$p2pu-blue:     #05C6B4;
+$bi-linkdarkblue:     #05C6B4;
 $p2pu-green:    #B7D500;
 $p2pu-yellow:   #FFBC1A;
 $p2pu-orange:   #FC7100;
 
-$p2pu-light-blue:       transparentize($p2pu-blue, 0.85);
+$p2pu-light-blue:       transparentize($bi-linkdarkblue, 0.85);
 $p2pu-light-green:      transparentize($p2pu-green, 0.85);
 $p2pu-light-yellow:     transparentize($p2pu-yellow, 0.85);
 $p2pu-light-orange:     transparentize($p2pu-orange, 0.85);
@@ -77,7 +78,7 @@ $p2pu-light-orange:     transparentize($p2pu-orange, 0.85);
 $primary:       $gray-darker;
 $secondary:     $gray-lighter;
 $success:       $p2pu-green;
-$info:          $p2pu-blue;
+$info:          $bi-linkdarkblue;
 $warning:       $p2pu-yellow;
 $danger:        $p2pu-orange;
 $light:         $gray-snow;
@@ -196,7 +197,7 @@ $body-color:                $gray-darker;;
 // Style anchor elements.
 
 
-$link-color:                $p2pu-blue;
+$link-color:                $bi-linkdarkblue;
 $link-decoration:           none !default;
 $link-hover-color:          darken($link-color, 15%);
 $link-hover-decoration:     underline !default;
