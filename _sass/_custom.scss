@@ -19,9 +19,13 @@ body {
   }
 }
 
-.nav-item.active, .nav-item:hover {
-  background-color: $bi-lightpink;
-	transition: all 0.3s linear;
+
+.nav-item.active {
+	background-color: $bi-lightpink;
+}
+
+.nav-item:hover {
+	background-color: $bi-mediumpink;
 }
 
 .nav-link{
@@ -41,7 +45,6 @@ body {
 		color: #fcfcfc;
 		border-bottom: 1px dotted;
 		text-decoration: none;
-		transition: all 0.3s linear;
 	}
 	a:hover, a:focus {
 		border-bottom: none;
@@ -92,7 +95,7 @@ section {
 }
 
 .sidebar {
-	background-color: $gray-lighter;
+	background-color: $bi-lightblue;
   font-size: 15px;
   padding-bottom: 10px;
 }
@@ -104,15 +107,13 @@ section {
 
 .sidebar li {
 	position: relative;
-	@include transition(color, 0.3s, linear);
 }
 
 .sidebar li:hover {
-	background-color: cadetblue;
+	background-color: $bi-lightestpink;
 
 	a:hover, a:focus {
 		text-decoration: none;
-		color: $white;
 	}
   .pagination-section {
     margin: 1em 0;
@@ -120,18 +121,14 @@ section {
 }
 
 .sidebar li.active {
-	background-color: $white;
+	background-color: $bi-lighterpink;
 }
 
-.sidebar li.active a:hover {
-	color: cadetblue;
-}
 
 .sidebar li a {
 	display: block;
   padding: 0.8em 0.5em;
 	text-transform: uppercase;
-	@include transition(color, 0.3s, linear);
 }
 
 .pagination-section .title {
@@ -196,7 +193,7 @@ section {
   .sidebar li a:before {
     content: "\f005";
     font-family: FontAwesome;
-    color: cadetblue;
+    color: $bi-lightestpink;
     position: absolute;
     left: 29px;
     line-height: 1.7;
@@ -271,13 +268,11 @@ footer {
     color: #FCFCFC;
     border-bottom: 1px dotted;
     text-decoration: none;
-    transition: all 0.3s linear;
   }
   a:hover {
     border: none;
     color: #FCFCFC;
     text-decoration: none;
-    transition: all 0.3s linear;
   }
 }
 

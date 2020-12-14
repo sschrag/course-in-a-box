@@ -82,24 +82,24 @@
   }
 
   &.blue {
-    background: $p2pu-blue;
-    border: 2px solid $p2pu-blue;
+    background: $bi-linkdarkblue;
+    border: 2px solid $bi-linkdarkblue;
     color: $white;
 
     &:before {
-      background: lighten($p2pu-blue, 1%);
+      background: lighten($bi-linkdarkblue, 1%);
     }
 
     &.secondary {
       background: $white;
-      color: $p2pu-blue;
-      border: 2px solid $p2pu-blue;
+      color: $bi-linkdarkblue;
+      border: 2px solid $bi-linkdarkblue;
       &:before {
-        background: transparentize($p2pu-blue, 0.95);
+        background: transparentize($bi-linkdarkblue, 0.95);
       }
 
       &:hover {
-        color: $p2pu-blue;
+        color: $bi-linkdarkblue;
       }
     }
   }
