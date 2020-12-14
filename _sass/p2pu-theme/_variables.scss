@@ -30,6 +30,7 @@ $black:    #000 !default;
 
 $bi-darkblue:           #260273;
 $bi-linkdarkblue:           #260273;
+$bi-linkpurple:           #662ce6;
 $bi-mediumpink:         #A80F90;
 $bi-lightpink:          #8C0375;
 $bi-lighterpink:        #FFCCF7;
@@ -197,9 +198,9 @@ $body-color:                $gray-darker;;
 // Style anchor elements.
 
 
-$link-color:                $bi-linkdarkblue;
+$link-color:                $bi-linkpurple;
 $link-decoration:           none !default;
-$link-hover-color:          darken($link-color, 15%);
+$link-hover-color:          darken($link-color, 0%);
 $link-hover-decoration:     underline !default;
 
 // Paragraphs
