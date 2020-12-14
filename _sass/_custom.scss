@@ -191,7 +191,7 @@ section {
   }
 
   .sidebar li a:before {
-    content: "\f005";
+    content: "\f111";
     font-family: FontAwesome;
     color: $bi-linkpurple;
     position: absolute;
@@ -208,7 +208,7 @@ section {
   }
 
   .sidebar li.active a:before {
-    content: "\f04b";
+    content: "\f35a";
   }
 
   .sidebar li a:after {
