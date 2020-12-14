@@ -92,7 +92,7 @@ section {
 }
 
 .sidebar {
-	background-color: $gray-lighter;
+	background-color: $bi-lightblue;
   font-size: 15px;
   padding-bottom: 10px;
 }
@@ -108,7 +108,7 @@ section {
 }
 
 .sidebar li:hover {
-	background-color: cadetblue;
+	background-color: $bi-lightestpink;
 
 	a:hover, a:focus {
 		text-decoration: none;
@@ -120,11 +120,11 @@ section {
 }
 
 .sidebar li.active {
-	background-color: $white;
+	background-color: $bi-lighterpink;
 }
 
 .sidebar li.active a:hover {
-	color: cadetblue;
+	color: $bi-lightestpink;
 }
 
 .sidebar li a {
@@ -196,7 +196,7 @@ section {
   .sidebar li a:before {
     content: "\f005";
     font-family: FontAwesome;
-    color: cadetblue;
+    color: $bi-lightestpink;
     position: absolute;
     left: 29px;
     line-height: 1.7;
