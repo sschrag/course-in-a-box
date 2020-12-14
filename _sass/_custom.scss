@@ -19,9 +19,6 @@ body {
   }
 }
 
-.nav-item.active, .nav-item:hover {
-	transition: all 0.3s linear;
-}
 
 .nav-item.active {
 	background-color: $bi-lightpink;
@@ -48,7 +45,6 @@ body {
 		color: #fcfcfc;
 		border-bottom: 1px dotted;
 		text-decoration: none;
-		transition: all 0.3s linear;
 	}
 	a:hover, a:focus {
 		border-bottom: none;
@@ -111,7 +107,6 @@ section {
 
 .sidebar li {
 	position: relative;
-	@include transition(color, 0.3s, linear);
 }
 
 .sidebar li:hover {
@@ -138,7 +133,6 @@ section {
 	display: block;
   padding: 0.8em 0.5em;
 	text-transform: uppercase;
-	@include transition(color, 0.3s, linear);
 }
 
 .pagination-section .title {
@@ -278,13 +272,11 @@ footer {
     color: #FCFCFC;
     border-bottom: 1px dotted;
     text-decoration: none;
-    transition: all 0.3s linear;
   }
   a:hover {
     border: none;
     color: #FCFCFC;
     text-decoration: none;
-    transition: all 0.3s linear;
   }
 }
 
