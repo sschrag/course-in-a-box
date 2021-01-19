@@ -3,7 +3,21 @@ title: San Junipero in Black Mirror
 ---
 # "San Junipero" in *Black Mirror* (2016)
 
-![alt](https://cdn.theatlantic.com/thumbor/pj44YPs3ps7xZMgMmjFu7m64y50=/0x228:5760x3468/720x405/media/img/mt/2016/10/BlackMirror_EP1_san_junipero_0282r/original.jpg)
+<a href="https://cdn.theatlantic.com/thumbor/pj44YPs3ps7xZMgMmjFu7m64y50=/0x228:5760x3468/720x405/media/img/mt/2016/10/BlackMirror_EP1_san_junipero_0282r/original.jpg">
+<img src="https://cdn.theatlantic.com/thumbor/pj44YPs3ps7xZMgMmjFu7m64y50=/0x228:5760x3468/720x405/media/img/mt/2016/10/BlackMirror_EP1_san_junipero_0282r/original.jpg" class="poster">
+</a>
+
+**Background:**
+
+"San Junipero" is episode three of season four of the sci-fi drama anthology series, *Black Mirror*. (An anthology series presents stories of different characters in each episode, so it is not necessary to be familiar with previous episodes of *Black Mirror* to understand this episode.) "San Junipero" was written by Charlie Brooker (who is the showrunner of *Black Mirror*) and directed by Owen Harris. In general, *Black Mirror* typically focuses on the potential negative consequences of emerging technologies. "San Junipero" is a bit unique in the series due to the happy (or at least potentially happy) ending for the two protagonists.
+
+**Plot summary:**
+
+As the episode opens, Yorkie (Mackenzie Davis) enters a nightclub in a California beachside town in 1987. She seems shy and uncomfortable, but she quickly strikes up a conversation with Kelly (Gugu Mbatha-Raw), who asks her to dance. As they talk, Kelly invites Yorkie to spend the night with her, but Yorkie leaves anxiously. The episode cuts to one week later, and Yorkie arrives at the nightclub again, eager to see Kelly. Kelly takes Yorkie home to her beachside house, and the two sleep together and share a bit of their lives. Yorkie reveals that she has never slept with anyone, and Kelly reveals that she has always known she was bisexual, but that she was married to a man for many years, although he "chose not to stick around," so Kelly is now eager to "have a good time" "before [she] leaves." The episode cuts to one week later. Yorkie looks around for Kelly but cannot find her; she hops to different time periods over the course of several weeks--1980, the 1990s--before finding Kelly in San Junipero in the 2000s. Kelly reveals that she is afraid of getting too close to Yorkie because she simply wanted to have fun. That night, Yorkie reveals that she is getting married to a man named Greg the next day. Kelly reveals that she is dying of cancer and has only a few months to live, and that she is not planning to spend eternity in San Junipero, as many do. Because her husband Richard died without staying in San Junipero, Kelly plans to do the same. Kelly asks to come see Yorkie in the present, and Yorkie reluctantly agrees. An elderly and frail Kelly visits an elderly Yorkie in a nursing home, and meets Greg, a nurse, who explains Yorkie's history. At 21, she came out to her parents as gay, and the conversation did not go well. The family got into a fight, and Yorkie left, getting into a car accident that left her quadriplegic and unable to communicate (except via a new technological comms system). Greg plans to marry Yorkie in order to enable her to enact her wish to be euthanized and pass over into San Junipero. Kelly communicates with Yorkie and asks her to marry her instead; Yorkie agrees, and is euthanized and sent to San Junipero with Kelly's consent. When they meet the following week in San Junipero, they celebrate their marriage. However, Yorkie tries to persuade Kelly to stay permanently when she dies, and Yorkie resists, explaining that she cannot because of her ties to her husband and daughter Allison, who has passed away as well. In the present day, an elderly Kelly debates this question, and ultimately decides to be euthanized and pass over to San Junipero. The final scene shows the pair enjoying a drive in San Junipero while their data is uploaded to a massive server farm. 
+
+**Content warnings:**
+
+"San Junipero" contains non-explicit references to sexuality.
 
 **Unofficial Trailer:**
 
