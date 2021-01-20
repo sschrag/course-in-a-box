@@ -29,5 +29,5 @@ As the episode opens, Yorkie (Mackenzie Davis) enters a nightclub in a Californi
 * Lesson plans
 * Screening quiz [<a href="/modules/unit 4: queer utopias/San Junipero Screening Quiz.docx" download>Word doc</a>]
 * Secondary texts:
-    * Constant, Sarah J. "Heterotopias and Utopias in Black Mirror" in *Black Mirror and Critical Media Theory,* edited by Angela M. Circucci and Barry Vacker, Lexington Books, 2018, pp. 213-223.
-    * Esteban Muñoz, Jose. *Cruising Utopia: The Then and There of Queer Futurity.* NYU UP, 2009.
+    * Day 2: Constant, Sarah J. "Heterotopias and Utopias in Black Mirror" in *Black Mirror and Critical Media Theory,* edited by Angela M. Circucci and Barry Vacker, Lexington Books, 2018, pp. 213-223.
+    * Day 3: Esteban Muñoz, Jose. *Cruising Utopia: The Then and There of Queer Futurity.* NYU UP, 2009. [<a href="/modules/unit 4: queer utopias/Cruising Utopia Intro.pdf" download>pdf</a>] (Excerpt: "Introduction: Feeling Utopia," pp. 1-19)
