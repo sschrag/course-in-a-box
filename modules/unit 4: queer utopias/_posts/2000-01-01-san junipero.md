@@ -30,4 +30,4 @@ As the episode opens, Yorkie (Mackenzie Davis) enters a nightclub in a Californi
 * Screening quiz [<a href="/modules/unit 4: queer utopias/San Junipero Screening Quiz.docx" download>Word doc</a>]
 * Secondary texts:
     * Day 2: Halberstam, Jack. *In A Queer Time and Place: Transgender Bodies: Subcultural Lives.* NYU UP, 2005. (Excerpt: Introduction: Queer Temporality and Postmodern Geographies," pp. 1-11) [<a href="/modules/unit 4: queer utopias/In A Queer Time and Place.pdf" download>pdf</a>]
-    * Day 3: Esteban Muñoz, Jose. *Cruising Utopia: The Then and There of Queer Futurity.* NYU UP, 2009. [<a href="/modules/unit 4: queer utopias/Cruising Utopia Intro.pdf" download>pdf</a>] (Excerpt: "Introduction: Feeling Utopia," pp. 1-19)
+    * Day 3: Esteban Muñoz, Jose. *Cruising Utopia: The Then and There of Queer Futurity.* NYU UP, 2009. [<a href="/modules/unit 4: queer utopias/Cruising Utopia.pdf" download>pdf</a>] (Excerpt: pp. 1, p. 19-32)
