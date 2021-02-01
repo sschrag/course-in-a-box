@@ -25,9 +25,14 @@ As the episode opens, Yorkie (Mackenzie Davis) enters a nightclub in a Californi
 
 **Full episode:** ["San Junipero" on Netflix](https://www.netflix.com/watch/80104625?trackId=13752289&tctx=0%2C0%2Ceec351eaa2a1c20b38706f7734cfd84eb167f32a%3A51ebef661f29ea4f7f18068b628180b73556d9d6%2Ceec351eaa2a1c20b38706f7734cfd84eb167f32a%3A51ebef661f29ea4f7f18068b628180b73556d9d6%2Cunknown%2C)  
 
+**Note:**
+Because this week is the beginning of the “Queer Utopia” unit, I am including two queer theory texts that we will continue to engage with throughout the unit, rather than one film criticism piece and one queer theory piece – excerpts from Jack Halberstam’s *In a Queer Time and Place,* and from Jose Esteban Muñoz’s *Cruising Utopia.* Before the "day 1" class period, students will read the first page of *Cruising Utopia* to introduce this unit, along with their regular screening. Before "day 2,"" students will read an excerpt from the introduction of *In A Queer Time and Place,* and before "day 3,"" students will read Chapter 2 of *Cruising Utopia.* As always, feel free to re-arrange or cut this material in ways that would suit your class structure better.
+
+
 **Materials for this week:**
 * Lesson plans
 * Screening quiz [<a href="/modules/unit 4: queer utopias/San Junipero Screening Quiz.docx" download>Word doc</a>]
 * Secondary texts:
+    * Day 1: Esteban Muñoz, Jose. *Cruising Utopia: The Then and There of Queer Futurity.* NYU UP, 2009. [<a href="/modules/unit 4: queer utopias/Munoz Feeling Utopia.pdf" download>pdf</a>] (Excerpt: pp. 1)
     * Day 2: Halberstam, Jack. *In A Queer Time and Place: Transgender Bodies: Subcultural Lives.* NYU UP, 2005. (Excerpt: Introduction: Queer Temporality and Postmodern Geographies," pp. 1-11) [<a href="/modules/unit 4: queer utopias/In A Queer Time and Place.pdf" download>pdf</a>]
-    * Day 3: Esteban Muñoz, Jose. *Cruising Utopia: The Then and There of Queer Futurity.* NYU UP, 2009. [<a href="/modules/unit 4: queer utopias/Cruising Utopia.pdf" download>pdf</a>] (Excerpt: pp. 1, p. 19-32)
+    * Day 3: Esteban Muñoz, Jose. *Cruising Utopia: The Then and There of Queer Futurity.* NYU UP, 2009. [<a href="/modules/unit 4: queer utopias/Munoz Queerness as Horizon.pdf" download>pdf</a>] (Excerpt: 19-32)
