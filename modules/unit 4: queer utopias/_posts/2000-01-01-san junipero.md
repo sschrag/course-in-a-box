@@ -30,7 +30,7 @@ Because this week is the beginning of the “Queer Utopia” unit, I am includin
 
 
 **Materials for this week:**
-* Lesson plans [<a href="modules/unit 4: queer utopias/San Junipero LP.docx" download>Word doc</a>]
+* Lesson plans [<a href="/modules/unit 4: queer utopias/San Junipero LP.docx" download>Word doc</a>]
 * Screening quiz [<a href="/modules/unit 4: queer utopias/San Junipero Screening Quiz.docx" download>Word doc</a>]
 * Secondary texts:
     * Day 1: Esteban Muñoz, Jose. *Cruising Utopia: The Then and There of Queer Futurity.* NYU UP, 2009. [<a href="/modules/unit 4: queer utopias/Munoz Feeling Utopia.pdf" download>pdf</a>] (Excerpt: pp. 1)
