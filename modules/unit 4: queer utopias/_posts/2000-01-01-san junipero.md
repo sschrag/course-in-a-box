@@ -21,7 +21,9 @@ As the episode opens, Yorkie (Mackenzie Davis) enters a nightclub in a Californi
 
 **Unofficial Trailer:**
 
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZrQjjYncvDg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 **Full episode:** ["San Junipero" on Netflix](https://www.netflix.com/watch/80104625?trackId=13752289&tctx=0%2C0%2Ceec351eaa2a1c20b38706f7734cfd84eb167f32a%3A51ebef661f29ea4f7f18068b628180b73556d9d6%2Ceec351eaa2a1c20b38706f7734cfd84eb167f32a%3A51ebef661f29ea4f7f18068b628180b73556d9d6%2Cunknown%2C)  
 

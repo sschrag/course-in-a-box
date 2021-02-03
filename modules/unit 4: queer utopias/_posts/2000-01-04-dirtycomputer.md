@@ -13,7 +13,6 @@ title: Dirty Computer
 **Plot summary:**
 Monae plays Jane, a so-called “dirty computer” who is captive in facility of white “cleaners” who are holding her against her will and erasing her memories. As they erase each memory, the film cuts to flashbacks of those memories, which are discrete music videos that work together to build a story arc. The arc of the narrative, which occurs out of chronological order, features Jane arriving a party with friends, reuniting with a male partner, Che (Jayson Aaron), and meeting a female partner, Zen (Tessa Thompson) for the first time. The party is broken up by law enforcement, and Jane and Zen narrowly escape, though several other partygoers are apprehended. Jane, Che and Zen furtively dance, sing, and celebrate, but eventually Zen and then Jane are apprehended as well. Once in the facility, Jane discovers that Zen has had most of her memories erased, and is now a “torch,” who is supposed to lead her through her own process of memory erasure. However, Jane eventually convinces Zen that they need to escape the facility, and when Che is also apprehended, the trio escape together into an unknown future.  
 
-
 **Content warnings**: *Dirty Computer* contains some sexually suggestive imagery.
 
 **Running time:** 48 min
