@@ -2,7 +2,7 @@
 layout: index
 published: true
 ---
-**Note:** This website is a part of a capstone project for my M.A. in English at Georgetown University. It will be completed by May 2021. Please feel free to contact me at sls361@georgetown.edu with any questions.
+**Note:** This website is my capstone project for my M.A. in English at Georgetown University. It will be completed by May 2021. Please feel free to contact me at sls361@georgetown.edu with any questions. 
 
 ## Why Queer Cinema?
 
@@ -19,6 +19,3 @@ This contains lesson plans and materials designed for a **semester-long course**
 * **Day 1: Close reading:** Following each weekly viewing, students will spend a class period close-reading significant scenes and discussing the film’s use of literary and cinematic techniques. 	
 * **Day 2: Applying film criticism:** The following period, students will examine film criticism pieces that engage the specific film being discussed that week. This process will help students learn how to unpack and engage with academic scholarship, and will deepen students’ understandings of the film being examined that week.
 * **Day 3: Applying queer theory:** At the end of each week, students will examine a brief work of queer theory and apply the theoretical frameworks utilized by the authors to that week’s film or show. This weekly cycle will provide students with opportunities to grapple with core concepts in queer theory and apply them to visual media.
-
-## Background
- I designed this project based on my interdisciplinary studies in queer theory, film studies, and English. Prior to graduate school, I spent eight years teaching high school English in Newark, NJ and Chalmette, LA. For the last three years prior to graduate school, I developed AP English Language and Composition lesson plans used by up to ten other teachers in my school network. I bring to this project a passion for engaging students in critical conversations and fostering their love of literature, film and theory. I also bring to it many years of classroom experience – I know the challenges that teachers face in finding and creating engaging and high-quality curricular materials. I know that I can’t anticipate every teacher’s needs; I’ve built this course assuming that teachers will need to adapt these materials based on student interest, skill level, and the constraints of each particular school’s schedule. However, it is my hope that teachers find these materials to be a useful framework and starting point for exploring two fields that typically receive little attention in high school classrooms, despite their potential for student engagement: cinema studies and queer studies.
