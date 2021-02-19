@@ -29,6 +29,6 @@ At the start of the film, the Fabre family--Hanna (Michèle Laroque), Pierre (Je
 * Lesson plans
 * Screening quiz [<a href="/modules/unit 4: queer utopias/Ma Vie En Rose Screening Quiz.docx" download>Word doc</a>]
 * Secondary texts:
-    * Day 1: Esteban Muñoz, Jose. *Cruising Utopia: The Then and There of Queer Futurity.* NYU UP, 2009. (Excerpt provided: selection from pp. 172-178) [<a href="/modules/unit 4: queer utopias/Munoz Queer Failure.pdf" download>pdf</a>]
+    * Day 1: Esteban Muñoz, Jose. *Cruising Utopia: The Then and There of Queer Futurity.* NYU UP, 2009. (Excerpt provided: selection from pp. 172-177) [<a href="/modules/unit 4: queer utopias/Munoz Queer Failure.pdf" download>pdf</a>]
     * Day 2: Schiavi, Michael R. "A 'Girlboy's Own Story: Non-Masculinie Narrativity in *Ma Vie En Rose*." *College Literature* vol. 31, no. 3, 2004, pp. 1-26. [<a href="/modules/unit 4: queer utopias/A Girlboy's Own Story.pdf" download>pdf</a>]
     * Day 3: Serano, Julia. *Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity.* Seal Press, 2007. (Excerpt provided: "Trans Woman Manifesto," pp. 12-20) [<a href="/modules/unit 4: queer utopias/Trans Woman Manifesto.pdf" download>pdf</a>]
