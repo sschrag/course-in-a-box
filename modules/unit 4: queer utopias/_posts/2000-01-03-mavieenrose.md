@@ -30,7 +30,7 @@ At the start of the film, the Fabre family--Hanna (Michèle Laroque), Pierre (Je
 
 
 **Materials this week:**
-* Lesson plans
+* Lesson plans [<a href="/modules/unit 4: queer utopias/Ma Vie En Rose LP.docx" download>Word doc</a>]
 * Screening quiz [<a href="/modules/unit 4: queer utopias/Ma Vie En Rose Screening Quiz.docx" download>Word doc</a>]
 * Secondary texts:
     * Day 1: Esteban Muñoz, Jose. *Cruising Utopia: The Then and There of Queer Futurity.* NYU UP, 2009. (Excerpt provided: selection from pp. 172-177) [<a href="/modules/unit 4: queer utopias/Munoz Queer Failure.pdf" download>pdf</a>]
