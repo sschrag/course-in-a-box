@@ -23,12 +23,16 @@ At the start of the film, the Fabre family--Hanna (Michèle Laroque), Pierre (Je
 
 **Film link:** [*Ma Vie En Rose* on Amazon Prime](https://www.amazon.com/Ma-Vie-Rose-Georges-Fresne/dp/B001ELDYU2)
 
-**Note:** Day 1 of this week includes a scene analysis alongside another brief excerpt from *Cruising Utopia.* You could assign this excerpt for students to read alongside their screening of *Ma Vie en Rose,* prior to this week's class, or you could have students read it together during  the Day 1 class period. Alternatively, you could skip this text excerpt and close-read the scene without it!
+**Notes:**
+* Note: Day 1 of this week includes a scene analysis alongside another brief excerpt from Cruising Utopia. You could assign this excerpt for students to read alongside their screening of Ma Vie en Rose, prior to this week's class, or you could have students read it together during the Day 1 class period. Alternatively, you could skip this text excerpt and close-read the scene without it!
+* Because of the relative difficulty of Schiavi’s text compared with Serano’s, and because Schiavi’s text presents good opportunities to discuss the end of the film, Day 2 involves queer theory (Serano) and Day 3 involves film criticism (Schiavi).
+* Scholarship on *Ma Vie en Rose* uses various pronouns to refer to Ludovic. Throughout these lesson plans, I will use “she/her” pronouns to refer to Ludo, due to Ludo’s explanations throughout the film that she is a girl. Schiavi’s article includes “he/him” pronouns. One could argue it would be more appropriate to use “they/them” pronouns or simply refer to Ludo as “Ludo.” You could discuss with your class the challenges of speaking and writing about a character who is given few opportunities to explain herself.
+
 
 **Materials this week:**
 * Lesson plans
 * Screening quiz [<a href="/modules/unit 4: queer utopias/Ma Vie En Rose Screening Quiz.docx" download>Word doc</a>]
 * Secondary texts:
     * Day 1: Esteban Muñoz, Jose. *Cruising Utopia: The Then and There of Queer Futurity.* NYU UP, 2009. (Excerpt provided: selection from pp. 172-177) [<a href="/modules/unit 4: queer utopias/Munoz Queer Failure.pdf" download>pdf</a>]
-    * Day 2: Schiavi, Michael R. "A 'Girlboy's Own Story: Non-Masculinie Narrativity in *Ma Vie En Rose*." *College Literature* vol. 31, no. 3, 2004, pp. 1-26. [<a href="/modules/unit 4: queer utopias/A Girlboy's Own Story.pdf" download>pdf</a>]
-    * Day 3: Serano, Julia. *Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity.* Seal Press, 2007. (Excerpt provided: "Trans Woman Manifesto," pp. 12-20) [<a href="/modules/unit 4: queer utopias/Trans Woman Manifesto.pdf" download>pdf</a>]
+    * Day 2: Serano, Julia. *Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity.* Seal Press, 2007. (Excerpt provided: "Trans Woman Manifesto," pp. 12-20) [<a href="/modules/unit 4: queer utopias/Trans Woman Manifesto.pdf" download>pdf</a>]
+    * Day #: Schiavi, Michael R. "A 'Girlboy's Own Story: Non-Masculinie Narrativity in *Ma Vie En Rose*." *College Literature* vol. 31, no. 3, 2004, pp. 1-26. [<a href="/modules/unit 4: queer utopias/A Girlboy's Own Story.pdf" download>pdf</a>]
