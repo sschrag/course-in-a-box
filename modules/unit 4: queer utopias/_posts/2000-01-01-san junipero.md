@@ -35,6 +35,7 @@ As the episode opens, Yorkie (Mackenzie Davis) enters a nightclub in a Californi
 **Materials for this week:**
 * Lesson plans [<a href="/modules/unit 4: queer utopias/San Junipero LP.docx" download>Word doc</a>]
 * Screening quiz [<a href="/modules/unit 4: queer utopias/San Junipero Screening Quiz.docx" download>Word doc</a>]
+* Film screening notes handout (same as unit 1 and 2) [<a href="/modules/unit 4: queer utopias/Film Screening Notes Handout.docx" download>Word doc</a>]
 * Film studies vocabulary handout (same as units 1 and 2)[<a href="/modules/unit 4: queer utopias/Film Studies Vocabulary.docx" download>Word doc</a>]
 * Secondary texts:
     * Day 1: Esteban Muñoz, Jose. *Cruising Utopia: The Then and There of Queer Futurity.* NYU UP, 2009. [<a href="/modules/unit 4: queer utopias/Munoz Feeling Utopia.pdf" download>pdf</a>] (Excerpt: "Introduction: Feeling Utopia," pp. 1)
