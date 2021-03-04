@@ -25,6 +25,6 @@ title: But I'm A Cheerleader
 * Lesson plans
 * Screening quiz [<a href="/modules/unit 1: comedy/But I'm A Cheerleader Screening Quiz.docx" download>Word doc</a>]
 * Student-led scene analysis description
-* Film screening notes handout [<a href="/modules/unit 1: comedy/Film Screening Notes Handout.docx download>Word doc</a>]
+* Film screening notes handout [<a href="/modules/unit 1: comedy/Film Screening Notes Handout.docx" download>Word doc</a>]
 * Film studies vocabulary handout [<a href="/modules/unit 1: comedy/Film Studies Vocabulary.docx" download>Word doc</a>]
 * Secondary texts:
