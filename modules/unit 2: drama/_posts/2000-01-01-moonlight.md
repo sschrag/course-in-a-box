@@ -31,7 +31,7 @@ title: Moonlight
 * Lesson plans [<a href="/modules/unit 2: drama/Moonlight LP.docx" download>Word doc</a>]
 * Screening quiz [<a href="/modules/unit 2: drama/Moonlight Quiz.docx" download>Word doc</a>]
 * Film screening notes handout (same as unit 1) [<a href="/modules/unit 2: drama/Film Screening Notes Handout.docx" download>Word doc</a>]
-* Film studies vocabulary handout (same as unit 1) [<a href="modules/unit 2: drama/Film Studies Vocabulary.docx" download>Word doc</a>]
+* Film studies vocabulary handout (same as unit 1) [<a href="/modules/unit 2: drama/Film Studies Vocabulary.docx" download>Word doc</a>]
 * Secondary texts:
     * Day 2: Stallings, L. H. "Am I A Faggot?" *GLQ: A Journal of Lesbian and Gay Studies* vol. 25, no. 2, 2019, pp. 342-351. [<a href="/modules/unit 2: drama/Am I A Faggot.pdf" download>pdf</a>]
     * Day 3: Johnson, E. Patrick. "In the Quare Light of the Moon: Poverty, Sexuality, and Makeshift Masculinity in *Moonlight*." *The Western Journal of Black Studies* vol. 43, no. 3 & 4, 2019, pp. 70-80. [<a href="/modules/unit 2: drama/In the Quare Light of the Moon.pdf" download>pdf</a>]
