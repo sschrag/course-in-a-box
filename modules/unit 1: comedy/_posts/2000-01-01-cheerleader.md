@@ -15,13 +15,13 @@ title: But I'm A Cheerleader
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HnUvneNxoz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**Content warnings:** *But I'm A Cheerleader* contains two non-explicit sex scenes and brief underage drinking.
+**Content warnings:** *But I'm A Cheerleader* contains two non-explicit sex scenes, brief underage drinking, and humor about sexuality throughout.
 
 **Film link:** [*But I'm A Cheerleader* on Amazon Prime](https://www.amazon.com/But-Im-Cheerleader-Bud-Cort/dp/B00FYJ37DY)
 
 **Running time:** 1 h 25 m
 
-**Note:** Because this is the first week of the course, Day 1 includes the introduction of some course systems and materials we will use throughout this course (student-led scene analysis model, film studies vocabulary, film screening notes). If you plan to rearrange the sequence of this course, you may want to move some of these introductory materials to whatever you choose to be the first week. 
+**Note:** Because this is the first week of the course, Day 1 includes the introduction of some course systems and materials we will use throughout this course (student-led scene analysis model, film studies vocabulary, film screening notes). If you plan to rearrange the sequence of this course, you may want to move some of these introductory materials to whatever you choose to be the first week.
 
 **Materials for this week:**
 * Lesson plans
