@@ -21,12 +21,16 @@ title: But I'm A Cheerleader
 
 **Running time:** 1 h 25 m
 
-**Note:** Because this is the first week of the course, Day 1 includes the introduction of some course systems and materials we will use throughout this course (student-led scene analysis model, film studies vocabulary, film screening notes). If you plan to rearrange the sequence of this course, you may want to move some of these introductory materials to whatever you choose to be the first week.
+**Notes:**
+* Because this is the first week of the course, Day 1 includes the introduction of some course systems and materials we will use throughout this course (student-led scene analysis model, film studies vocabulary, film screening notes). If you plan to rearrange the sequence of this course, you may want to move some of these introductory materials to whatever you choose to be the first week.
+* Throughout the course, secondary texts are listed alongside the day they are discussed in class. So For example, the CBS Video on Conversion Therapy is listed as Day 2 because it is intended to be discussed that day. Students should watch this video prior to Day 2's class.
 
 **Materials for this week:**
 * Lesson plans
-* Screening quiz [<a href="/modules/unit 1: comedy/But I'm A Cheerleader Screening Quiz.docx" download>Word doc</a>]
-* Student-led scene analysis description [<a href="/modules/unit 1: comedy/Student Led Scene Analysis.docx" download>Word doc</a>]
-* Film screening notes handout [<a href="/modules/unit 1: comedy/Film Screening Notes Handout.docx" download>Word doc</a>]
-* Film studies vocabulary handout [<a href="/modules/unit 1: comedy/Film Studies Vocabulary.docx" download>Word doc</a>]
-* Secondary texts:
+* Day 1: Screening quiz [<a href="/modules/unit 1: comedy/But I'm A Cheerleader Screening Quiz.docx" download>Word doc</a>]
+* Day 1: Student-led scene analysis description and model [<a href="/modules/unit 1: comedy/Student Led Scene Analysis.docx" download>Word doc</a>]
+* Day 1: Film screening notes handout [<a href="/modules/unit 1: comedy/Film Screening Notes Handout.docx" download>Word doc</a>]
+* Day 1: Film studies vocabulary handout [<a href="/modules/unit 1: comedy/Film Studies Vocabulary.docx" download>Word doc</a>]
+Secondary texts:
+* Day 2: Video: [Video: CBS - Conversion Therapy](https://www.youtube.com/watch?v=l5AIkfq1z2k)(Homework: Watch before Day 2 Class)(**Content warning:** contains descriptions of suicide attempts and abuse)
+* Day 2: 
