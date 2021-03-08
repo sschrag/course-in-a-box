@@ -33,4 +33,4 @@ title: But I'm A Cheerleader
 * Day 1: Film studies vocabulary handout [<a href="/modules/unit 1: comedy/Film Studies Vocabulary.docx" download>Word doc</a>]
 Secondary texts:
 * Day 2: Video: [Video: CBS - Conversion Therapy](https://www.youtube.com/watch?v=l5AIkfq1z2k)(Homework: Watch before Day 2 Class)(**Content warning:** contains descriptions of suicide attempts and abuse)
-* Day 2: 
+* Day 2: Jeffers McDonald, Tamar. *Romantic Comedy: Boy Meets Girl Meets Genre.* London, Wallflower Press, 2007. [<a href="/modules/unit 1: comedy/Boy Meets Girl Meets Genre.pdf" download>pdf</a>] (Excerpt included: Introduction and Appendix B)
