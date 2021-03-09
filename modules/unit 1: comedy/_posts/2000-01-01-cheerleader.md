@@ -26,7 +26,7 @@ title: But I'm A Cheerleader
 * Throughout the course, secondary texts are listed alongside the day they are discussed in class. So For example, the CBS Video on Conversion Therapy is listed as Day 2 because it is intended to be discussed that day. Students should watch this video prior to Day 2's class.
 
 **Materials for this week:**
-* Lesson plans
+* Lesson plans [<a href="/modules/unit 1: comedy/But I'm A Cheerleader LP.docx" download>Word doc</a>]
 * Day 1: Screening quiz [<a href="/modules/unit 1: comedy/But I'm A Cheerleader Screening Quiz.docx" download>Word doc</a>]
 * Day 1: Student-led scene analysis description and model [<a href="/modules/unit 1: comedy/Student Led Scene Analysis.docx" download>Word doc</a>]
 * Day 1: Film screening notes handout [<a href="/modules/unit 1: comedy/Film Screening Notes Handout.docx" download>Word doc</a>]
@@ -35,5 +35,5 @@ Secondary texts:
 * Day 2: [Video: CBS - Conversion Therapy](https://www.youtube.com/watch?v=l5AIkfq1z2k)(Homework: Watch before Day 2 Class **Content warning:** contains descriptions of suicide attempts and abuse)
 * Day 2: Jeffers McDonald, Tamar. *Romantic Comedy: Boy Meets Girl Meets Genre.* London, Wallflower Press, 2007. [<a href="/modules/unit 1: comedy/Boy Meets Girl Meets Genre.pdf" download>pdf</a>] (Homework: Read before Day 2 Class. Excerpt included: Introduction and Appendix B)
 * Day 3: [Video: Sexual Orientation, Gender Identity, and Gender Expression](https://www.youtube.com/watch?v=Vlx9iZ9g_9I) (Watch in class on Day 3)
-* Day 3: [Video: The Problem with Heteronormativity](https://www.youtube.com/watch?v=EJ3K_oS6ZmU)
-* Day 3: Halberstam, Jack. *The Queer Art of Failure.* Durham, Duke UP, 2011. [<a href="/modules/unit 1: comedy/The Queer Art of Failure.pdf" download>pdf</a>] (Excerpts: 2-3, 24-25, 87-89, 119-121)
+* Day 3: [Video: The Problem with Heteronormativity](https://www.youtube.com/watch?v=EJ3K_oS6ZmU)(Watch in class on Day 3)
+* Day 3: Halberstam, Jack. *The Queer Art of Failure.* Durham, Duke UP, 2011. [<a href="/modules/unit 1: comedy/The Queer Art of Failure.pdf" download>pdf</a>] (Excerpts: 2-3, 24-25, 87-89, 119-121)(Read before class on Day 3)
