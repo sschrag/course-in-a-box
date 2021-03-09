@@ -23,7 +23,7 @@ title: But I'm A Cheerleader
 
 **Notes:**
 * Because this is the first week of the course, Day 1 includes the introduction of some course systems and materials we will use throughout this course (student-led scene analysis model, film studies vocabulary, film screening notes). If you plan to rearrange the sequence of this course, you may want to move some of these introductory materials to whatever you choose to be the first week.
-* Throughout the course, secondary texts are listed alongside the day they are discussed in class. So For example, the CBS Video on Conversion Therapy is listed as Day 2 because it is intended to be discussed that day. Students should watch this video prior to Day 2's class.
+* Throughout the course, secondary texts are listed alongside the day they are discussed in class. For example, the CBS Video on Conversion Therapy is listed as Day 2 because it is intended to be discussed that day. Students should watch this video prior to Day 2's class.
 
 **Materials for this week:**
 * Lesson plans [<a href="/modules/unit 1: comedy/But I'm A Cheerleader LP.docx" download>Word doc</a>]
