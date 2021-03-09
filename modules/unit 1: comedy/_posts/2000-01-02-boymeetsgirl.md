@@ -23,5 +23,5 @@ title: Boy Meets Girl
 
 **Materials:**
 * Lesson plans
-* Screening quiz
-* Secondary texts: 
+* Screening quiz [<a href="/modules/unit 1: comedy/Boy Meets Girl Screening Quiz.docx" download>Word doc</a>]
+* Secondary texts:
