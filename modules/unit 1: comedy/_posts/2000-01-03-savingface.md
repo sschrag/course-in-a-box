@@ -22,5 +22,5 @@ title: Saving Face
 
 **Materials:**
 * Lesson plans
-* Screening quiz
+* Screening quiz [<a href="/modules/unit 1: comedy/Saving Face Quiz.docx" download>Word doc</a>]
 * Secondary materials:
