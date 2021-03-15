@@ -21,6 +21,11 @@ title: Boy Meets Girl
 
 **Running time:** 1 h, 39 m
 
+**Notes:**
+* I’ve provided 3 clips/trailers from films mentioned by Julia Serano in Chapter 2 of Whipping Girl. Because the reading for Day 2’s class is short, you may want to also assign students to watch these videos before class, as it may give students a sense of the archetypes that Serano addresses in her reading.
+* This week we will be reading essays from Julia Serano’s book, *Whipping Girl.* It might be worth noting for students that while many of her ideas are still highly relevant, some of her language is not widely used. For example, [GLAAD](https://www.glaad.org/reference/transgender) explains about the word transsexual: “An older term that originated in the medical and psychological communities. Still preferred by some people who have permanently changed - or seek to change - their bodies through medical interventions, including but not limited to hormones and/or surgeries.” Unlike transgender, transsexual is not an umbrella term. Many transgender people do not identify as transsexual and prefer the word transgender. It is best to ask which term a person prefers. If preferred, use as an adjective: transsexual woman or transsexual man.” Similarly, while Serano’s chapter is titled “cissexual privilege,” today, most people refer to “cisgender privilege.”
+
+
 **Materials:**
 * Lesson plans
 * Screening quiz [<a href="/modules/unit 1: comedy/Boy Meets Girl Screening Quiz.docx" download>Word doc</a>]
