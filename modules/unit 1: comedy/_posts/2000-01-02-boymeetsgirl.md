@@ -29,5 +29,5 @@ title: Boy Meets Girl
     * Day 2: [https://www.youtube.com/watch?v=p0qVhhIfWr4](*The Crying Game* Video Clip 1 - Fergus First Sees Dil)(Watch in class)
     * Day 2: [https://www.youtube.com/watch?v=0Z-o1RVdnHE](*The Crying Game* Video Clip 2: After "The Reveal")
     * Day 2: [https://www.youtube.com/watch?v=O9jz3uz8cqc](*Transamerica* Trailer)
-    * Day 2: Serano, Julia. *Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity.* Seal Press, 2007. (Excerpt provided: Ch 2: "Skirt Chasers: Why The Media Depicts the Trans Revolution in Lipstick and Heels") [a href="/modules/unit 1: comedy/Skirt Chasers.pdf" download>Word doc</a>]
-    * Day 3: Serano, Julia. *Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity.* Seal Press, 2007. (Excerpt provided: Ch. 8: "Dismantling Cissexual Privilege") [a href="/modules/unit 1: comedy/Dismantling Cissexual Privilege.pdf" download>Word doc</a>]
+    * Day 2: Serano, Julia. *Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity.* Seal Press, 2007. (Excerpt provided: Ch 2: "Skirt Chasers: Why The Media Depicts the Trans Revolution in Lipstick and Heels") [<a href="/modules/unit 1: comedy/Skirt Chasers.pdf" download>Word doc</a>]
+    * Day 3: Serano, Julia. *Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity.* Seal Press, 2007. (Excerpt provided: Ch. 8: "Dismantling Cissexual Privilege") [<a href="/modules/unit 1: comedy/Dismantling Cissexual Privilege.pdf" download>Word doc</a>]
