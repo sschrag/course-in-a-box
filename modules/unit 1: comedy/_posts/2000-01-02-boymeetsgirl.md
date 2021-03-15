@@ -26,8 +26,8 @@ title: Boy Meets Girl
 * Screening quiz [<a href="/modules/unit 1: comedy/Boy Meets Girl Screening Quiz.docx" download>Word doc</a>]
 * Secondary texts:
     * Day 1:[Trans 101 Video](https://www.youtube.com/watch?v=-3ZzpTxjgRw)(Watch in class)
-    * Day 2:[*The Crying Game* Video Clip 1 - Fergus First Sees Dil](https://www.youtube.com/watch?v=p0qVhhIfWr4)(Watch in class)
-    * Day 2: [*The Crying Game* Video Clip 2: After "The Reveal"](https://www.youtube.com/watch?v=0Z-o1RVdnHE)
-    * Day 2: [*Transamerica* Trailer](https://www.youtube.com/watch?v=O9jz3uz8cqc)
+    * Day 2:[*The Crying Game* Video Clip 1 - Fergus First Sees Dil](https://www.youtube.com/watch?v=p0qVhhIfWr4)(Watch before class)
+    * Day 2: [*The Crying Game* Video Clip 2: After "The Reveal"](https://www.youtube.com/watch?v=0Z-o1RVdnHE)(Watch before class)
+    * Day 2: [*Transamerica* Trailer](https://www.youtube.com/watch?v=O9jz3uz8cqc)(Watch before class)
     * Day 2: Serano, Julia. *Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity.* Seal Press, 2007. (Excerpt provided: Ch 2: "Skirt Chasers: Why The Media Depicts the Trans Revolution in Lipstick and Heels") [<a href="/modules/unit 1: comedy/Skirt Chasers.pdf" download>Word doc</a>]
     * Day 3: Serano, Julia. *Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity.* Seal Press, 2007. (Excerpt provided: Ch. 8: "Dismantling Cissexual Privilege") [<a href="/modules/unit 1: comedy/Dismantling Cissexual Privilege.pdf" download>Word doc</a>]
