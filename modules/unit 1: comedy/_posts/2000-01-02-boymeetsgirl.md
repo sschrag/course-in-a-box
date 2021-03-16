@@ -27,7 +27,7 @@ title: Boy Meets Girl
 * It may be worth discussing with students that this film, while notable in its casting of a trans woman actress for the lead role, was written and directed by a cisgender man. That there have been interesting critiques and debates about its representation of trans women and narrative development. If you have time, you could have students read different perspectives from LGBTQ media outlets like [Them](https://www.them.us/story/boy-meets-girl) and [Autostraddle](https://www.autostraddle.com/boy-meets-girl-is-heartwarming-groundbreaking-has-cute-queer-kissing-280713/) to examine some of these questions.
 
 **Materials:**
-* Lesson plans [a href="/modules/unit 1: comedy/Boy Meets Girl LP.docx" download>Word doc</a>]
+* Lesson plans [<a href="/modules/unit 1: comedy/Boy Meets Girl LP.docx" download>Word doc</a>]
 * Screening quiz [<a href="/modules/unit 1: comedy/Boy Meets Girl Screening Quiz.docx" download>Word doc</a>]
 * Secondary texts:
     * Day 1:[Trans 101 Video](https://www.youtube.com/watch?v=-3ZzpTxjgRw) (Watch in class)
