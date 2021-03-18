@@ -20,9 +20,13 @@ title: Saving Face
 
 **Content warning:** *Saving Face* contains one scene of sexuality, including brief nudity.
 
+**Note:**
+* Because both readings compare *Saving Face* to *The Wedding Banquet,* it might be useful for students to watch the trailer prior to completing this week's assigned reading. If you have additional time for this unit, you could have students watch and analyze this film as well, and read the entirety of both articles. I have edited these articles for length by cutting some of the sections that refer exclusively to *The Wedding Banquet.*
+
 **Materials:**
 * Lesson plans
 * Screening quiz [<a href="/modules/unit 1: comedy/Saving Face Quiz.docx" download>Word doc</a>]
 * Secondary materials:
-    * Day 2: Han, Qijun. "Diasporic Chinese Family Drama Through A Transnational Lens: *The Wedding Banquet* and *Saving Face*." *International Journal of Media and Cultural Politics* Vol. 15, no. 3, 2019, pp. 323-343.
-    
+    * Day 2: Video: [https://www.youtube.com/watch?v=5kVkRhXt3S4](*The Wedding Banquet* Trailer) (Watch before class)
+    * Day 2: Ledru, Juliette. "Blurred Lines?: The Dialectics of the Margins and the Mainstream in *The Wedding Banquet* and *Saving Face*"
+    * Day 3: Han, Qijun. "Diasporic Chinese Family Drama Through A Transnational Lens: *The Wedding Banquet* and *Saving Face*." *International Journal of Media and Cultural Politics* Vol. 15, no. 3, 2019, pp. 323-343.
