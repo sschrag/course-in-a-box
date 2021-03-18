@@ -27,6 +27,6 @@ title: Saving Face
 * Lesson plans
 * Screening quiz [<a href="/modules/unit 1: comedy/Saving Face Quiz.docx" download>Word doc</a>]
 * Secondary materials:
-    * Day 2: Video: [https://www.youtube.com/watch?v=5kVkRhXt3S4](*The Wedding Banquet* Trailer) (Watch before class)
-    * Day 2: Ledru, Juliette. "Blurred Lines?: The Dialectics of the Margins and the Mainstream in *The Wedding Banquet* and *Saving Face*." *Chinese Cinemas: International Perspectives,* edited by Felicia Chan and Andy Willis, Routledge, 2016, pp. 96-105. 
+    * Day 2: Video: [*The Wedding Banquet* Trailer](https://www.youtube.com/watch?v=5kVkRhXt3S4) (Watch before class)
+    * Day 2: Ledru, Juliette. "Blurred Lines?: The Dialectics of the Margins and the Mainstream in *The Wedding Banquet* and *Saving Face*." *Chinese Cinemas: International Perspectives,* edited by Felicia Chan and Andy Willis, Routledge, 2016, pp. 96-105.
     * Day 3: Han, Qijun. "Diasporic Chinese Family Drama Through A Transnational Lens: *The Wedding Banquet* and *Saving Face*." *International Journal of Media and Cultural Politics* Vol. 15, no. 3, 2019, pp. 323-343.
