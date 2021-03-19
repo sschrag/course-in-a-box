@@ -20,13 +20,14 @@ title: Saving Face
 
 **Content warning:** *Saving Face* contains one scene of sexuality, including brief nudity.
 
-**Note:**
-* Because both readings compare *Saving Face* to *The Wedding Banquet,* it might be useful for students to watch the trailer prior to completing this week's assigned reading. If you have additional time for this unit, you could have students watch and analyze this film as well, and read the entirety of both articles. I have edited these articles for length by cutting some of the sections that refer exclusively to *The Wedding Banquet.*
+**Notes:**
+* This week, we are examining two film studies texts on *Saving Face,* rather than a film studies and queer theory text, since much has been written about this film specifically. 
+* Because both readings compare *Saving Face* to *The Wedding Banquet,* it might be useful for students to watch the trailer prior to completing this week's assigned reading. If you have additional time for this unit, you could have students watch and analyze this film as well, and read the entirety of both articles. I have shortened Han's article by redacting some of the sections that refer exclusively to *The Wedding Banquet.* Because Ledru's article is brief, and because the analysis of the *The Wedding Banquet* in her piece is clear and interwoven with the analysis of *Saving Face,* I have not condensed this piece.
 
 **Materials:**
 * Lesson plans
 * Screening quiz [<a href="/modules/unit 1: comedy/Saving Face Quiz.docx" download>Word doc</a>]
 * Secondary materials:
     * Day 2: Video: [*The Wedding Banquet* Trailer](https://www.youtube.com/watch?v=5kVkRhXt3S4) (Watch before class)
-    * Day 2: Ledru, Juliette. "Blurred Lines?: The Dialectics of the Margins and the Mainstream in *The Wedding Banquet* and *Saving Face*." *Chinese Cinemas: International Perspectives,* edited by Felicia Chan and Andy Willis, Routledge, 2016, pp. 96-105.
+    * Day 2: Ledru, Juliette. "Blurred Lines?: The Dialectics of the Margins and the Mainstream in *The Wedding Banquet* and *Saving Face*." *Chinese Cinemas: International Perspectives,* edited by Felicia Chan and Andy Willis, Routledge, 2016, pp. 96-105. [<a href="/modules/unit 1: comedy/Blurred Lines.pdf" download>pdf</a>
     * Day 3: Han, Qijun. "Diasporic Chinese Family Drama Through A Transnational Lens: *The Wedding Banquet* and *Saving Face*." *International Journal of Media and Cultural Politics* Vol. 15, no. 3, 2019, pp. 323-343.
