@@ -31,5 +31,5 @@ title: Saving Face
 * Secondary materials:
     * Day 2: Ka Hin Wong, Alvin. "From the Transnational to the Sinophone: Lesbian Representations in Chinese-Language Films." *Journal of Lesbian Studies.* Vol. 16, no. 1, 2012, pp. 307-322. (Excerpt provided: pp. 307-309, 314-320) [<a href="/modules/unit 1: comedy/Lesbian Representation.pdf" download>pdf</a>]
     * Day 3: Video: [*The Wedding Banquet* Trailer](https://www.youtube.com/watch?v=5kVkRhXt3S4) (Watch before class)
-    * Day 3: Han, Qijun. "Diasporic Chinese Family Drama Through A Transnational Lens: *The Wedding Banquet* and *Saving Face*." *International Journal of Media and Cultural Politics* Vol. 15, no. 3, 2019, pp. 323-343. [<a href="/modules/unit 1: comedy/Diasporic Family Drama.pdf" download<pdf</a>]
+    * Day 3: Han, Qijun. "Diasporic Chinese Family Drama Through A Transnational Lens: *The Wedding Banquet* and *Saving Face*." *International Journal of Media and Cultural Politics* Vol. 15, no. 3, 2019, pp. 323-343. [<a href="/modules/unit 1: comedy/Diasporic Family Drama.pdf" download>pdf</a>]
     * Optional: Video: [Alice Wu Interview](https://www.youtube.com/watch?v=mSzuLxu_08Q) (Students interested in filmmaking may find this interview inspiring and interesting)
