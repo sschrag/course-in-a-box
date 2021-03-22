@@ -22,7 +22,6 @@ title: Saving Face
 
 **Notes:**
 * This week, we are examining two film studies texts on *Saving Face,* rather than a film studies and queer theory text, since much has been written about this film specifically. 
-* Because both readings compare *Saving Face* to *The Wedding Banquet,* it might be useful for students to watch the trailer prior to completing this week's assigned reading. If you have additional time for this unit, you could have students watch and analyze this film as well, and read the entirety of both articles. I have shortened Han's article by redacting some of the sections that refer exclusively to *The Wedding Banquet.* Because Ledru's article is brief, and because the analysis of the *The Wedding Banquet* in her piece is clear and interwoven with the analysis of *Saving Face,* I have not condensed this piece.
 
 **Materials:**
 * Lesson plans
