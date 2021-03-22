@@ -22,7 +22,8 @@ title: Saving Face
 
 **Notes:**
 * This week, we are examining two film studies texts on *Saving Face,* rather than a film studies and queer theory text, since much has been written about this film specifically.
-* You may want to have students watch the trailer for *The Wedding Banquet* before they complete the reading for Day 3, since there are some references to that film throughout Han's text. 
+* You may want to have students watch the trailer for *The Wedding Banquet* before they complete the reading for Day 3, since there are some references to that film throughout Han's text.
+* I have redacted sections of both essays to reduce the reading load this week.
 
 **Materials:**
 * Lesson plans
