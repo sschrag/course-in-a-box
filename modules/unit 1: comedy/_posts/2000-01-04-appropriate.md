@@ -12,4 +12,6 @@ title: Appropriate Behavior
 
 **Film link:** [*Appropriate Behavior* on Amazon Prime](https://www.amazon.com/Appropriate-Behavior-Desiree-Akhavan/dp/B00SB2SDPS)
 
+**Content warning:** *Appropriate Behavior* contains brief nudity, three sex scenes, and marijuana use.
+
 **Running time:** 1 h, 26 m
