@@ -26,7 +26,7 @@ title: Saving Face
 * I have redacted sections of both essays to reduce the reading load this week.
 
 **Materials:**
-* Lesson plans
+* Lesson plans [<a href="/modules/unit 1: comedy/Saving Face LP.docx" download>Word doc</a>]
 * Screening quiz [<a href="/modules/unit 1: comedy/Saving Face Quiz.docx" download>Word doc</a>]
 * Secondary materials:
     * Day 2: Ka Hin Wong, Alvin. "From the Transnational to the Sinophone: Lesbian Representations in Chinese-Language Films." *Journal of Lesbian Studies.* Vol. 16, no. 1, 2012, pp. 307-322. (Excerpt provided: pp. 307-309, 314-320) [<a href="/modules/unit 1: comedy/Lesbian Representation.pdf" download>pdf</a>]
