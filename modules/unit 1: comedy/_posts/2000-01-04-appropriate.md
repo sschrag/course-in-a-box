@@ -26,3 +26,6 @@ The film begins with Shirin moving out of Maxine's apartment and commiserrating 
 * Lesson plans
 * Screening quiz [<a href="/modules/unit 1: comedy/Appropriate Behavior Quiz.docx" download>Word doc</a>]
 * Secondary texts:
+    * Day 2: Benson, Chloe. "Film Review: *Appropriate Behavior.* " *Journal of Bisexuality* Vol. 17, no. 2, 2017, pp. 251-256. [<a href="/modules/unit 1: comedy/Appropriate Behavior Review.pdf" download>pdf</a>]
+    * Day 3: [Music Video: Katy Perry, "I Kissed a Girl"](https://www.youtube.com/watch?v=tAp9BKosZXs) (Watch in class)
+    * Day 3: San Filippo, Maria. "The Politics of Fluidity: Representing Bisexuality in 21st Century Screen Media" in *The Routledge Companion to Media, Sex, and Sexuality,* edited by Clarissa Smith and Feona Attwood with Brian McNair, Routledge, 2018, pp. 70-79. [<a href="/modules/unit 1: comedy/Politics of Fluidity.pdf" download>pdf</a>]
