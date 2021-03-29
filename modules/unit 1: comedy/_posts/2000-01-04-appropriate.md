@@ -24,5 +24,5 @@ The film begins with Shirin moving out of Maxine's apartment and commiserrating 
 
 **Materials for this week:**
 * Lesson plans
-* Screening quiz
+* Screening quiz [<a href="/modules/unit 1: comedy/Appropriate Behavior Quiz.docx" download>Word doc</a>]
 * Secondary texts:
