@@ -37,3 +37,8 @@ title: But I'm A Cheerleader
     * Day 3: [Video: Sexual Orientation, Gender Identity, and Gender Expression](https://www.youtube.com/watch?v=Vlx9iZ9g_9I) (Watch in class on Day 3)
     * Day 3: [Video: The Problem with Heteronormativity](https://www.youtube.com/watch?v=EJ3K_oS6ZmU) (Watch in class on Day 3)
     * Day 3: Halberstam, Jack. *The Queer Art of Failure.* Durham, Duke UP, 2011. [<a href="/modules/unit 1: comedy/The Queer Art of Failure.pdf" download>pdf</a>] (Excerpts: 2-3, 24-25, 87-89, 119-121)(Read before class on Day 3)
+
+  Additional optional resources:
+  * As you introduce film studies to students, you may want to share with them the following two resources (or use them yourself throughout the course):
+       * [University of Michigan's Audiovisual Lexicon for Media Analysis](https://www.youtube.com/playlist?list=PLCEc4eMTXqNoQNLvq35US5f8G4G_7RnkV)
+       * [Yale's Film Analysis Guide](https://filmanalysis.yale.edu/)
