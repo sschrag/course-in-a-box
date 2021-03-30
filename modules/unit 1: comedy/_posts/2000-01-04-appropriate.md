@@ -3,8 +3,8 @@ title: Appropriate Behavior
 ---
 # *Appropriate Behavior* (2014)
 
-<a href="https://themovieq.files.wordpress.com/2015/12/appropriate-behaviour-poster.jpg">
-<img src="https://themovieq.files.wordpress.com/2015/12/appropriate-behaviour-poster.jpg" class="poster">
+<a href="https://images-na.ssl-images-amazon.com/images/I/91Pagmf7TiL._RI_.jpg">
+<img src="https://images-na.ssl-images-amazon.com/images/I/91Pagmf7TiL._RI_.jpg" class="poster">
 </a>
 
 **Film background:** *Appropriate Behavior* was the directorial debut of Desiree Akhavan, who wrote, directed, and starred in the film. She went on to direct the 2018 film *The Miseducation of Cameron Post,* based on the novel of the same name by Emily Danforth. Akhavan wrote *Appropriate Behavior* for her graduate thesis at New York University. While there are elements of Shirin's character that mirror some of her experiences, such as her Iranian-American background and her bisexuality, she has stated that the film is not autobiographical.
