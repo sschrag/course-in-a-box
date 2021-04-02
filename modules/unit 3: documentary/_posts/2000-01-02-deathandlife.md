@@ -17,7 +17,7 @@ title: The Death and Life of Marsha P. Johnson
 
 **Film link:**: [*The Death and Life of Marsha P. Johnson* on Netflix](https://www.netflix.com/search?q=death%20and%20life%20of%20marsha&jbv=80189623)
 
-**Running time:**
+**Running time:** 1 hr, 45 min
 
 **Materials for this week:**
 * Lesson plans
