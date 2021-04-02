@@ -19,7 +19,7 @@ title: Disclosure
 
 **Running time:** 1 h 40 min
 
-**Materials:**
+**Materials for this week:**
 * Lesson plans
 * Screening quiz [<a href="/modules/unit 3: documentary/Disclosure Quiz.docx" download>Word doc</a>]
-* Secondary materials
+* Secondary texts:

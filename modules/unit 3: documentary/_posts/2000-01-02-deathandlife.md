@@ -9,7 +9,6 @@ title: The Death and Life of Marsha P. Johnson
 
 **Film background and summary:**
 
-
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pADsuuPd79E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -20,7 +19,7 @@ title: The Death and Life of Marsha P. Johnson
 
 **Running time:**
 
-**Secondary materials:**
+**Materials for this week:**
 * Lesson plans
 * Screening quiz
 * Secondary texts:
