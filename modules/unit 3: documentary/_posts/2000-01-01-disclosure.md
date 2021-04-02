@@ -21,5 +21,5 @@ title: Disclosure
 
 **Materials:**
 * Lesson plans
-* Screening quiz [<a href=/modules/unit 3: documentary/Disclosure Quiz.docx" download<Word doc</a>]
+* Screening quiz [<a href="/modules/unit 3: documentary/Disclosure Quiz.docx" download<Word doc</a>]
 * Secondary materials
