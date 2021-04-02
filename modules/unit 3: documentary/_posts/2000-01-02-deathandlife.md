@@ -13,7 +13,7 @@ title: The Death and Life of Marsha P. Johnson
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pADsuuPd79E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**Content warnings:**
+**Content warnings:** *The Death and Life of Marsha P. Johnson* contains brief nudity and discussions of violence.
 
 **Film link:**: [*The Death and Life of Marsha P. Johnson* on Netflix](https://www.netflix.com/search?q=death%20and%20life%20of%20marsha&jbv=80189623)
 
