@@ -16,10 +16,12 @@ title: The Death and Life of Marsha P. Johnson
 
 ### *Happy Birthday, Marsha!* (2018)
 
-![alt](https://images-na.ssl-images-amazon.com/images/I/71+Ed4pXo0L._RI_.jpg)
+<a href="https://images-na.ssl-images-amazon.com/images/I/71+Ed4pXo0L._RI_.jpg">
+<img src="https://images-na.ssl-images-amazon.com/images/I/71+Ed4pXo0L._RI_.jpg" class="poster">
+</a>
 
-**Trailer**:
+<div class="video-container">
 <iframe src="https://player.vimeo.com/video/145921994" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/145921994">Official Trailer for Happy Birthday, Marsha!</a> from <a href="https://vimeo.com/sashawortzel">sasha wortzel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
 
 **Film link:**: [*Happy Birthday, Marsha!* on Amazon Prime](https://www.amazon.com/Happy-Birthday-Marsha-Mya-Taylor/dp/B07SBGR1YZ)
