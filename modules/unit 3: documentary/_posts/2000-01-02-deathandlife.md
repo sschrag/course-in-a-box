@@ -9,8 +9,9 @@ title: The Death and Life of Marsha P. Johnson
 <img src="https://resizing.flixster.com/ugruF1RHPBXc8db2PZlMzsGtmx8=/ems.ZW1zLXByZC1hc3NldHMvbW92aWVzL2M4YWVkNWI1LWUwNzYtNGQ0NS04OGI3LThjNTE1NzhkYWRjYi53ZWJw" class="poster">
 </a>
 
-**Trailer:**
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pADsuuPd79E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 **Film link:**: [*The Death and Life of Marsha P. Johnson* on Netflix](https://www.netflix.com/search?q=death%20and%20life%20of%20marsha&jbv=80189623)
 
