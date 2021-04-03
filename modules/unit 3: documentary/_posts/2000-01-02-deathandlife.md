@@ -24,4 +24,5 @@ title: The Death and Life of Marsha P. Johnson
 * Screening quiz [a href="/modules/unit 3: documentary/Death and Life Quiz.docx" download>Word doc</a>]
 * Secondary texts:
     * Day 2: Short film: [*Happy Birthday, Marsha!*](https://www.amazon.com/Happy-Birthday-Marsha-Mya-Taylor/dp/B07SBGR1YZ)
-    * Day 2: Caldafell, Maria Bernadette. "Narrative Authority, Theory in the Flesh, and the Fight over *The Death and Life of Marsha P. Johnson."* *QED: A Journal in GLBTQ Worldmaking* Vol. 6, no. 2, 2019, pp. 26-39.
+    * Day 2: Caldafell, Maria Bernadette. "Narrative Authority, Theory in the Flesh, and the Fight over *The Death and Life of Marsha P. Johnson."* *QED: A Journal in GLBTQ Worldmaking* Vol. 6, no. 2, 2019, pp. 26-39.[a href="/modules/unit 3: documentary/Narrative Authorirty Theory in the Flesh.pdf" download>pdf</a>]
+    
