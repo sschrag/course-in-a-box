@@ -28,7 +28,9 @@ title: The Death and Life of Marsha P. Johnson
 
 **Content warnings:** *The Death and Life of Marsha P. Johnson* contains brief nudity and discussions of violence, murder, sex work, and suicide.
 
-**Film link:**: [*The Death and Life of Marsha P. Johnson* on Netflix](https://www.netflix.com/search?q=death%20and%20life%20of%20marsha&jbv=80189623)
+**Film links:**
+* [*The Death and Life of Marsha P. Johnson* on Netflix](https://www.netflix.com/search?q=death%20and%20life%20of%20marsha&jbv=80189623) (Watch before Day 1 of class)
+* [*Happy Birthday, Marsha!*](https://www.amazon.com/Happy-Birthday-Marsha-Mya-Taylor/dp/B07SBGR1YZ) (Watch before Day 2 of class)
 
 **Running time:** *The Death and Life of Marsha P. Johnson* is 1 hr, 45 min. *Happy Birthday, Marsha!* is 15 min.
 
@@ -36,6 +38,5 @@ title: The Death and Life of Marsha P. Johnson
 * Lesson plans
 * Screening quiz [<a href="/modules/unit 3: documentary/Death and Life Quiz.docx" download>Word doc</a>]
 * Secondary texts:
-    * Day 2: Short film: [*Happy Birthday, Marsha!*](https://www.amazon.com/Happy-Birthday-Marsha-Mya-Taylor/dp/B07SBGR1YZ)
     * Day 2: Caldafell, Maria Bernadette. "Narrative Authority, Theory in the Flesh, and the Fight over *The Death and Life of Marsha P. Johnson."* *QED: A Journal in GLBTQ Worldmaking* Vol. 6, no. 2, 2019, pp. 26-39.[<a href="/modules/unit 3: documentary/Narrative Authorirty Theory in the Flesh.pdf" download>pdf</a>]
     * Day 3: Tang, Jeannine. "Contemporary Art and Critical Transgender Infrastructures." *Trap Door: Trans Cultural Production and the Politics of Visibility,* edited by Tourmaline, Eric A. Stanley, and Johanna Burton, Cambridge, MIT Press, 2017, pp. 363-393. (Excerpt provided: pp. 378-383) [<a href"/modules/unit 3: documentary/Trap Door.pdf" download>pdf</a>]
