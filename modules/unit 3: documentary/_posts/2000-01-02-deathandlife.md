@@ -11,6 +11,7 @@ title: The Death and Life of Marsha P. Johnson
 <img src="https://image.tmdb.org/t/p/original/pVAfo0uo2BF75fcgCAhmo0P3xso.jpg" class="poster">
 </a>
 
+
 **Film backgrounds and summaries:** *The Death and Life of Marsha P. Johnson* is a 2017 documentary, directed by David France. It is France's second documentary; he also directed *How To Survive a Plague* (2012), which focuses on HIV/AIDS and the ACT UP movement in New York City in the 1980s and 1990s. *The Death and Life of Marsha P. Johnson* chronicles the story of Marsha P. Johnson, who was a prominent figure in the Stonewall rebellion, co-founded the group Street Transvestite Action Revolutionaries in the 1970s with Sylvia Rivera, and was an LGBTQ advocate until her death in 1992. The film follows Victoria Cruz, an anti-violence advocate, as she investigates the circumstances of Johnson's death.
 
 *Happy Birthday, Marsha* is a 2018 short film created by Black trans artist Tourmaline and Sasha Wortzel. It features Mya Taylor as Marsha P. Johnson and Eve Lindley as Sylvia Rivera, and imagines the day and evening before the Stonewall riots began from Marsha P. Johnson's perspective.
