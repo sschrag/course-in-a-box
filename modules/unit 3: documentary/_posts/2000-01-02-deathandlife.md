@@ -38,7 +38,7 @@ title: The Death and Life of Marsha P. Johnson
 * Because there are two films this week, I have reserved 15 minutes in Day 3’s class for a student-led scene analysis of Happy Birthday, Marsha! (in addition to the typical time reserved on Day 1). You could alternatively use this time for more teacher-led scene analysis or to examine the Slate or Teen Vogue articles mentioned above.
 
 **Materials for this week:**
-* Lesson plans
+* Lesson plans [<a href="/modules/unit 3: documentary/Death and Life of Marsha P Johnson LP.docx" download>Word doc</a>]
 * Screening quiz [<a href="/modules/unit 3: documentary/Death and Life Quiz.docx" download>Word doc</a>]
 * Secondary texts:
     * Day 2: Caldafell, Maria Bernadette. "Narrative Authority, Theory in the Flesh, and the Fight over *The Death and Life of Marsha P. Johnson."* *QED: A Journal in GLBTQ Worldmaking* Vol. 6, no. 2, 2019, pp. 26-39.[<a href="/modules/unit 3: documentary/Narrative Authorirty Theory in the Flesh.pdf" download>pdf</a>]
