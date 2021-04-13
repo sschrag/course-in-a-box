@@ -3,8 +3,8 @@ title: Dirty Computer
 ---
 # *Dirty Computer* (2018)
 
-<a href="https://m.media-amazon.com/images/M/MV5BMDMzM2FjM2QtYjE3Ni00MzhhLWFmN2QtNjA3YTExODM3NmM1XkEyXkFqcGdeQXVyNDYwODI4MDM@._V1_.jpg">
-<img src="https://m.media-amazon.com/images/M/MV5BMDMzM2FjM2QtYjE3Ni00MzhhLWFmN2QtNjA3YTExODM3NmM1XkEyXkFqcGdeQXVyNDYwODI4MDM@._V1_.jpg" class="poster">
+<a href="/modules/unit 4: queer utopias/dirtycomputer.jpg">
+<img src="/modules/unit 4: queer utopias/dirtycomputer.jpg" class="poster">
 </a>
 
 **Film background:**

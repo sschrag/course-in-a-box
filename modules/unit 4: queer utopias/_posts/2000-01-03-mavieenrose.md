@@ -3,8 +3,8 @@ title: Ma Vie En Rose
 ---
 # *Ma Vie En Rose* ("My Life in Pink") (1997)
 
-<a href="https://images-na.ssl-images-amazon.com/images/I/81FjQWN6MrL._RI_.jpg">
-<img src="https://images-na.ssl-images-amazon.com/images/I/81FjQWN6MrL._RI_.jpg" class="poster">
+<a href="/modules/unit 4: queer utopias/mavieenrose.jpg">
+<img src="/modules/unit 4: queer utopias/mavieenrose.jpg" class="poster">
 </a>
 
 **Film background:** *Ma Vie En Rose* was directed by Alain Berliner. It won Best Foreign Language Film at the 1998 Golden Globe Awards. Berliner is Belgian, and the film was primarily shot in France. The film was given an R rating by the MPAA despite the fact that it has virtually no violent or sexual content; some have argued this rating is due to the transphobia inherent in the MPAA rating system.
