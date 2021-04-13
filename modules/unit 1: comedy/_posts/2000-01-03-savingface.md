@@ -2,8 +2,8 @@
 title: Saving Face
 ---
 # *Saving Face* (2004)
-<a href="https://images-na.ssl-images-amazon.com/images/I/51ZiZnecONL._SY445_.jpg">
-<img src="https://images-na.ssl-images-amazon.com/images/I/51ZiZnecONL._SY445_.jpg" class="poster">
+<a href="/modules/unit 1: comedy/savingface.jpg">
+<img src="/modules/unit 1: comedy/savingface.jpg" class="poster">
 </a>
 
 **Film background:** *Saving Face* was the directorial debut of Alice Wu. Her second feature film was *The Half of It,* (2020). The film was inspired partly by Wu's coming-out experiences with her mother. The film was not a box office success, and only opened at 56 theaters, but it has been cited as a significant and influential queer and Asian-American film in the years since its release. Wu recently spoke to [*The New York Times*](https://www.nytimes.com/2020/04/29/movies/the-half-of-it-alice-wu.html) about the challenges of making *Saving Face,* explaining: “I was trying to make the biggest romantic comedy I could on a tiny budget, with all Asian-American actors, and half of it in Mandarin Chinese." Wu also explained to *The New York Times* that in initial meetings with producers and studio executives, pressure was placed on her to make the protagonist white, make the characters straight, and reduce the amount of Mandarin Chinese spoken in the film. It was nominated for awards at events such as the GLAAD Media Awards in the US and the Golden Horse Film Festival in China.
