@@ -20,7 +20,7 @@ title: The Death and Life of Marsha P. Johnson
 <p><a href="https://vimeo.com/145921994">Official Trailer for Happy Birthday, Marsha!</a> from <a href="https://vimeo.com/sashawortzel">sasha wortzel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
-**Content warnings:** *The Death and Life of Marsha P. Johnson* contains brief nudity and discussions of violence, murder, sex work, and suicide. *Happy Birthday, Marsha* contains police harassment and implied police brutality.
+**Content warnings:** *The Death and Life of Marsha P. Johnson* contains brief nudity and discussions of violence, murder, sex work, and suicide. *Happy Birthday, Marsha* contains police violence.
 
 **Film links:**
 * [*The Death and Life of Marsha P. Johnson* on Netflix](https://www.netflix.com/search?q=death%20and%20life%20of%20marsha&jbv=80189623) (Watch before Day 1 of class)
