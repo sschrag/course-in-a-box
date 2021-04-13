@@ -3,8 +3,8 @@ title: San Junipero in Black Mirror
 ---
 # "San Junipero" in *Black Mirror* (2016)
 
-<a href="https://i1.wp.com/vehlinggo.com/wp-content/uploads/2016/12/black-mirror-san-junipero-sountrack-review-photo.jpg?fit=3200%2C3840&ssl=1">
-<img src="https://i1.wp.com/vehlinggo.com/wp-content/uploads/2016/12/black-mirror-san-junipero-sountrack-review-photo.jpg?fit=3200%2C3840&ssl=1" class="poster">
+<a href="/modules/unit 4: queer utopias/sanjunipero.jpg">
+<img src="/modules/unit 4: queer utopias/sanjunipero.jpg" class="poster">
 </a>
 
 **Background:**
