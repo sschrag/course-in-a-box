@@ -3,8 +3,8 @@ title: Disclosure
 ---
 # *Disclosure: Trans Lives on Screen* (2020)
 
-<a href="https://m.media-amazon.com/images/M/MV5BYTk1MzczM2YtZmJmOC00NWQzLWJkNTAtYTI3YzE3ODcyMTI0XkEyXkFqcGdeQXVyMzAyMzE2MzM@._V1_.jpg">
-<img src="https://m.media-amazon.com/images/M/MV5BYTk1MzczM2YtZmJmOC00NWQzLWJkNTAtYTI3YzE3ODcyMTI0XkEyXkFqcGdeQXVyMzAyMzE2MzM@._V1_.jpg" class="poster">
+<a href="/modules/unit 3: documentary/disclosure.jpg">
+<img src="/modules/unit 3: documentary/disclosure.jpg" class="poster">
 </a>
 
 **Film background and summary:** *Disclosure: Trans Lives on Screen* is a 2020 documentary directed by Sam Feder. It features interviews with many transgender actors, writers and producers, including Laverne Cox, Lilly Wachowski, Zackary Drucker, Jen Richards, MJ Rodriguez, Ser Anzoategui, and many others. The film uses extensive footage from film and television over the last 100 years to examine the history of trans representation on screen, and interviews trans members of the film industry about their experiences as actors, creators, and spectators. Much of the film focuses on how audiences--both trans and cis--are often impacted by the portrayals of trans people they see in film. Some films addressed in the documentary include *Paris is Burning,* *The Crying Game,* *Boys Don't Cry,* *Psycho,* *Ma Vie En Rose,* and *The Matrix,* among many others. Some television series discussed include *Transparent,* *Pose,* *Nip/Tuck,* and the genres of daytime talk shows, police shows and hospital shows. Topics include cis casting of trans roles, historical stereotypes, appropriation, and trans visibility.

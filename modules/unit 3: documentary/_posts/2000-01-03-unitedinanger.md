@@ -3,7 +3,9 @@ title: United in Anger
 ---
 # *United in Anger* (2012)
 
-![alt](https://i.pinimg.com/originals/c9/36/d3/c936d38fb5e30333f407ed734bce4244.jpg)
+<a href="/modules/unit 3: documentary/unitedinanger.jpg">
+<img src="/modules/unit 3: documentary/unitedinanger.jpg" class="poster">
+</a>
 
 **Trailer:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4ZacAyc4b8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
