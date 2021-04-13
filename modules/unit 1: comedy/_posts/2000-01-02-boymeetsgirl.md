@@ -3,8 +3,8 @@ title: Boy Meets Girl
 ---
 # *Boy Meets Girl* (2014)
 
-<a href="https://img.24reel.com/cdn/medium/movie/b5864377-2cc0-4ab2-897f-fc269959b534.jpg">
-<img src="https://img.24reel.com/cdn/medium/movie/b5864377-2cc0-4ab2-897f-fc269959b534.jpg" class="poster">
+<a href="/modules/unit 1: comedy/boymeetsgirl.jpg">
+<img src="/modules/unit 1: comedy/boymeetsgirl.jpg" class="poster">
 </a>
 
 **Film background:** *Boy Meets Girl* was released in 2014. It was written and directed by Eric Schaeffer, who is a cisgender man. Schaeffer was adamant that the role of Ricky go to a transgender woman, explaining to [Filmmaker Magazine](https://filmmakermagazine.com/92758-five-questions-for-boy-meets-girl-director-eric-schaeffer/#.YEfs411Ki6o), "Being an independent filmmaker, I had the latitude to cast a trans woman and not have to satisfy a studio (which would have ponied up a ton of money) by casting a famous cisgender man or cisgender woman, which likely they would have required. I felt it socially important that a trans woman play the trans part." Schaeffer cast Michelle Hendley, who was in cosmetology school and had never acted before, but who had a [YouTube channel](https://www.youtube.com/c/ChelleHendley/videos) in which she spoke openly about her identity, her interests, and her transition. The film was nominated for many LGBTQ film awards, including a GLAAD Media Award.
