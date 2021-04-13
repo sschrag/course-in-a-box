@@ -3,11 +3,9 @@ title: The Death and Life of Marsha P. Johnson
 ---
 # *The Death and Life of Marsha P. Johnson* (2017) and *Happy Birthday, Marsha!* (2018)
 
-<div class="video-container">
 <a href="/modules/unit 3: documentary/marsha.jpg">
-<img src="/modules/unit 3: documentary/marsha.jpg" class="poster">
+<img src="/modules/unit 3: documentary/marsha.jpg" class="full-width">
 </a>
-</div>
 
 **Film backgrounds and summaries:** *The Death and Life of Marsha P. Johnson* is a 2017 documentary, directed by David France, who is a cisgender white gay male filmmaker and journalist. It is France's second documentary; he also directed *How To Survive a Plague* (2012), which focuses on HIV/AIDS and the ACT UP movement in New York City in the 1980s and 1990s. *The Death and Life of Marsha P. Johnson* chronicles the story of Marsha P. Johnson, a Black trans woman who was a prominent figure in the Stonewall rebellion, co-founded the group Street Transvestite Action Revolutionaries in the 1970s with Sylvia Rivera, and was an LGBTQ advocate until her death in 1992. The film follows Victoria Cruz, an anti-violence advocate, as she investigates the circumstances of Johnson's death.
 
