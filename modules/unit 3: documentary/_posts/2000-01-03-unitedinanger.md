@@ -17,7 +17,7 @@ Another film that covers some of the same ground as this film and makes use of t
 
 **Running time:** 1 h, 33 m
 
-**Content warnings:** *United in Anger* contains extensive discussion of death, and several images of dead bodies.
+**Content warnings:** *United in Anger* contains extensive discussion of death and grief, and several images of dead bodies.
 
 **Note:**
 * This set of lesson plans focuses on the history of ACT UP and the intersection between film and activism. It does not include extensive discussion of what HIV/AIDS is, how it's transmitted, and how to protect yourself from it, get tested, or get treated for it. However, students may have questions about all of these things. If you have time, you may want to build in an additional day to build knowledge about this topic. [The Body](https://www.thebody.com/health/hiv-aids) has useful resources on this topic. [I Wanna Know](http://www.iwannaknow.org/teens/sti/hiv_aids.html) also has valuable resources directed at youth audiences. 
