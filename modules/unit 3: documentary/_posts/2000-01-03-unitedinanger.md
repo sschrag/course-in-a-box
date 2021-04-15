@@ -27,4 +27,4 @@ title: United in Anger
 * Secondary texts:
     * Day 2: Hallas, Roger. *Reframing Bodies: AIDS, Bearing Witness, and the Queer Moving Image.* Durham, Duke UP, 2009. (Excerpt provided from Chapter 2: "The Embodied Immediacy of Direct Action: Space and Movement in AIDS Video Activism")
     * Day 3: Juhasz, Alexandra. "Video Remains: Nostalgia, Technology, and Queer Archive Activism." *GLQ: A Journal of Lesbian and Gay Studies* Vol. 12, no. 2, 2006, pp. 319-328.
-    * Day 3: Hallas, Roger. *Reframing Bodies: AIDS, Bearing Witness, and the Queer Moving Image.* Hallas, Roger. *Reframing Bodies: AIDS, Bearing Witness, and the Queer Moving Image.* Durham, Duke UP, 2009. (Excerpt provided from "Afterword," pp. 241-247).
+    * Day 3: Hallas, Roger. *Reframing Bodies: AIDS, Bearing Witness, and the Queer Moving Image.* Hallas, Roger. *Reframing Bodies: AIDS, Bearing Witness, and the Queer Moving Image.* Durham, Duke UP, 2009. (Excerpt provided from "Afterword," pp. 241-247). [<a href="/modules/unit 3: documentary/Hallas Afterword.pdf" download>pdf</a>]
