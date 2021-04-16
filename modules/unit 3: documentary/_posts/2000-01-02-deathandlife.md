@@ -31,6 +31,7 @@ title: The Death and Life of Marsha P. Johnson
 **Notes:**
 * This week, we will be watching these two films together to address the ethics of storytelling and the different approaches of these two films to portraying Marsha P. Johnson. Students should watch *The Death and Life of Marsha P. Johnson* prior to Day 1's class, and *Happy Birthday, Marsha!* prior to day 2's class along with the assigned reading for that day. For more on the controversy in the making of these two films, you may want to read (and perhaps assign) this essay by Tourmaline in [Teen Vogue](https://www.teenvogue.com/story/reina-gossett-marsha-p-johnson-op-ed) or this article in [Slate](https://slate.com/human-interest/2017/10/marsha-p-johnson-netflix-doc-raises-questions-over-what-trans-led-storytelling-would-look-like.html).
 * Because there are two films this week, I have reserved 15 minutes in Day 3’s class for a student-led scene analysis of Happy Birthday, Marsha! (in addition to the typical time reserved on Day 1). You could alternatively use this time for more teacher-led scene analysis or to examine the Slate or Teen Vogue articles mentioned above.
+* There is a short reading for students to complete prior to Day 1 of *United in Anger* that I included in that week's plans. If you want students to complete that reading in addition to the film screening, you may want to note that this week.
 
 **Materials for this week:**
 * Lesson plans [<a href="/modules/unit 3: documentary/Death and Life of Marsha P Johnson LP.docx" download>Word doc</a>]
