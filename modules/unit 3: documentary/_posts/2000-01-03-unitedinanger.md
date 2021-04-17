@@ -28,7 +28,7 @@ title: United in Anger
 * Screening quiz [<a href="/modules/unit 3: documentary/United in Anger Quiz.docx" download>Word doc</a>]
 * Secondary texts:
     * Day 1 (Optional): Hallas, Roger. *Reframing Bodies: AIDS, Bearing Witness, and the Queer Moving Image.* Durham, Duke UP, 2009. (Excerpt provided from "Afterword," pp. 241-247). [<a href="/modules/unit 3: documentary/Hallas Afterword.pdf" download>pdf</a>]
-    * Day 2: Hallas, Roger. *Reframing Bodies: AIDS, Bearing Witness, and the Queer Moving Image.* Durham, Duke UP, 2009. [<a href="/modules/unit 3: documentary/Hallas Chapter 2.pdf" download>pdf</a>] (Excerpt provided from Chapter 2: "The Embodied Immediacy of Direct Action: Space and Movement in AIDS Video Activism", pp. 77-99, 104-105--you may want to cut this further) 
+    * Day 2: Hallas, Roger. *Reframing Bodies: AIDS, Bearing Witness, and the Queer Moving Image.* Durham, Duke UP, 2009. [<a href="/modules/unit 3: documentary/Hallas Chapter 2.pdf" download>pdf</a>] (Excerpt provided from Chapter 2: "The Embodied Immediacy of Direct Action: Space and Movement in AIDS Video Activism", pp. 77-90; 104-105)
     * Day 2: CBS, Dan Rather Clip, 1986: [AIDS Hits Home](https://www.youtube.com/watch?v=eeVcIr9_yGQ) (Watch in class)
     * Day 3: Juhasz, Alexandra. "Video Remains: Nostalgia, Technology, and Queer Archive Activism." *GLQ: A Journal of Lesbian and Gay Studies* Vol. 12, no. 2, 2006, pp. 319-328. [<a href"/modules/unit 3: documentary/Video Remains.pdf" download>pdf</a>]
     *
