@@ -23,5 +23,5 @@ title: Disclosure
 * Lesson plans
 * Screening quiz [<a href="/modules/unit 3: documentary/Disclosure Quiz.docx" download>Word doc</a>]
 * Secondary texts:
-    * Day 2: Aufderheide, Patricia. *Documentary Film: A Very Short Introduction.* New York: Oxford University Press, 2007. (Excerpt provided: Chapter 1: "Defining the documentary", pp. 1-19) [<a href="/modules/unit 3: documentary/Defining the Documentary.pdf" download</a>]
-    * Day 3:
+    * Day 2: Aufderheide, Patricia. *Documentary Film: A Very Short Introduction.* New York: Oxford University Press, 2007. (Excerpt provided: Chapter 1: "Defining the documentary", pp. 1-19) [<a href="/modules/unit 3: documentary/Defining the Documentary.pdf" download>pdf</a>]
+    * Day 3: Nichols, Bill. *Introduction to Documentary.* Indiana UP, 2017. (Excerpt provided: pp. 104-110; 137-149) [<a href="/modules/unit 3: documentary/Nichols Introduction to Documentary.pdf" download>pdf</a>]
