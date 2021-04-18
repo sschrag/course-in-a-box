@@ -1,10 +1,11 @@
+---
 title: Teacher Q & A
-
+---
 # Teacher Q & A
 
 As a teacher myself, I know you may have questions about how to implement this course. I've tried to offer some answers here. If your question isn't answered here, send me an email at sarah.lerman.schrag@gmail.com
 
-#### What grade level is this course appropriate for?
+### What grade level is this course appropriate for?
 
 This course is most appropriate for an 11th or 12th grade course, or an undergraduate course. It was designed with high school students and high school systems in mind, but it could be adapted to fit an undergraduate course.
 
