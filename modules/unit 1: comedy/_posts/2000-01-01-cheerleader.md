@@ -18,7 +18,7 @@ But I'm a Cheerleader
 <a href="/modules/unit 1: comedy/cheerleader.jpg"><img src="/modules/unit 1: comedy/cheerleader.jpg" class="infobox-poster" /></a></td></tr>
 
 <tr><th scope="row" class="infobox-label">
-Jamie Babbit</td></tr>
+Directed by</th><td class="infobox-data">Jamie Babbit</td></tr>
 
 <tr><th scope="row" class="infobox-label">Running time</th>
 <td class="infobox-data">1h 25m</td></tr>
@@ -28,7 +28,6 @@ Jamie Babbit</td></tr>
 Cheerleaders
 Pom-poms
 Conversion therapy</td></tr>
-
 
 <tr><th colspan="2" class="infobox-center">
 <a href="https://www.amazon.com/But-Im-Cheerleader-Bud-Cort/dp/B00FYJ37DY">View on Amazon Prime</a>
