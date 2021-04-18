@@ -57,9 +57,15 @@ section, .content {
     
 }
 
-.infobox-above {
+.infobox-title {
   font-weight: bold;
   text-align: center;
+  font-size:110%;
+  font-style:italic;
+}
+
+.infobox-poster {
+  /* width="180" height="268" */
 }
 
 .infobox td, .infobox th {
