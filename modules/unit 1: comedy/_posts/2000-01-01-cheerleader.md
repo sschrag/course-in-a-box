@@ -3,9 +3,9 @@ title: But I'm A Cheerleader
 ---
 # *But I'm A Cheerleader* (2000)
 
-<a href="/modules/unit 1: comedy/cheerleader.jpg">
+<!-- <a href="/modules/unit 1: comedy/cheerleader.jpg">
 <img src="/modules/unit 1: comedy/cheerleader.jpg" class="poster">
-</a>
+</a> -->
 
 <table class="infobox vevent" style="font-size:90%;">
 <tbody>
