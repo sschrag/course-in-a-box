@@ -7,26 +7,26 @@ title: Dirty Computer
 <img src="/modules/unit 4: queer utopias/dirtycomputer.jpg" class="poster">
 </a>
 
-**Film background:**
+### Film background
 *Dirty Computer* is the name of Janelle Monáe's third studio album as well as her short film, or "emotion picture" that accompanies it. The film was directed by Chuck Lightning and Andrew Donoho. As in her earlier works, Monáe's music and visuals explore Afrofuturism. More so than in her previous works, *Dirty Computer* aligns her Afrofuturist aesthetic with a vision of freedom that includes queerness, gender fluidity, pansexuality, and polyamory.
 
-**Plot summary:**
+### Plot summary
 Monáe plays Jane, a so-called “dirty computer” who is captive in facility of white “cleaners” who are holding her against her will and erasing her memories. As they erase each memory, the film cuts to flashbacks of those memories, which are discrete music videos that work together to build a story arc. The arc of the narrative, which occurs out of chronological order, features Jane arriving a party with friends, reuniting with a male partner, Che (Jayson Aaron), and meeting a female partner, Zen (Tessa Thompson) for the first time. The party is broken up by law enforcement, and Jane and Zen narrowly escape, though several other partygoers are apprehended. Jane, Che and Zen furtively dance, sing, and celebrate, but eventually Zen and then Jane are apprehended as well. Once in the facility, Jane discovers that Zen has had most of her memories erased, and is now a “torch,” who is supposed to lead her through her own process of memory erasure. However, Jane eventually convinces Zen that they need to escape the facility, and when Che is also apprehended, the trio escape together into an unknown future.  
-
-**Content warnings**: *Dirty Computer* contains some sexually suggestive imagery.
-
-**Running time:** 48 min
-
-**Trailer:**
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A9k89DYdHKQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**Film link:** [*Dirty Computer* on YouTube](https://www.youtube.com/watch?v=jdH2Sy-BlNE)
+### Content warnings
+*Dirty Computer* contains some sexually suggestive imagery.
 
-**Materials for this week:**
+### Running time
+48 min
 
+### Film link
+[*Dirty Computer* on YouTube](https://www.youtube.com/watch?v=jdH2Sy-BlNE)
+
+### Materials for this week
 * Lesson plans [<a href="/modules/unit 4: queer utopias/Dirty Computer LP.docx" download>Word doc</a>]
 * Screening quiz [<a href="/modules/unit 4: queer utopias/Dirty Computer Screening Quiz.docx" download>Word doc</a>]
 * Secondary texts:
