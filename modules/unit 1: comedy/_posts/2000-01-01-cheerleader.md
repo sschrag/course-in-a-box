@@ -27,7 +27,8 @@ Directed by</th><td class="infobox-data">Jamie Babbit</td></tr>
 <td class="infobox-data">
 Cheerleaders<br />
 Pom-poms<br />
-Conversion therapy</td></tr>
+Conversion therapy<br />
+Some very long academic term<br /></td></tr>
 
 <tr><th colspan="2" class="infobox-center">
 <a href="https://www.amazon.com/But-Im-Cheerleader-Bud-Cort/dp/B00FYJ37DY">View on Amazon Prime</a>

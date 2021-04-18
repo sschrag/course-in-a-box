@@ -73,12 +73,13 @@ section, .content {
 
 .infobox td, .infobox th {
   border: 0px;
-  padding: 0.2em 0.65em;
+  padding: 0.4em 0.65em;
   vertical-align: top;
 }
 
 .infobox-label {
   min-width: 9rem;
+  max-width: 10rem;
 }
 
 .infobox tr {
