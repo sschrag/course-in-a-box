@@ -25,8 +25,8 @@ Directed by</th><td class="infobox-data">Jamie Babbit</td></tr>
 
 <tr><th scope="row" class="infobox-label">Core concepts this week</th>
 <td class="infobox-data">
-Cheerleaders
-Pom-poms
+Cheerleaders<br />
+Pom-poms<br />
 Conversion therapy</td></tr>
 
 <tr><th colspan="2" class="infobox-center">
