@@ -13,7 +13,13 @@ But I'm a Cheerleader
 
 </th></tr><tr><td colspan="2" class="infobox-image">
 
-<a href="/modules/unit 1: comedy/cheerleader.jpg"><img alt="A half-length portrait of a young woman with long hair, wearing a bright pink formal dress and satin gloves. Behind her at a distance five cheerleaders in orange cheer-leading outfits perform cheer-leading maneuvers whilst falling through a bright blue sky. Across the portrait reads, in green, &quot;But I&#39;m a Cheerleader&quot;, and below, in smaller letters, &quot;A Comedy of Sexual Disorientation&quot;. At the top of the picture, in small letters are the names &quot;Natasha Lyonne, Clea Duvall, RuPaul Charles and Cathy Moriarty&quot;." src="/modules/unit 1: comedy/cheerleader.jpg" class="infobox-poster" /></a></td></tr><tr><th scope="row" class="infobox-label">Directed by</th><td class="infobox-data"><a href="/wiki/Jamie_Babbit" title="Jamie Babbit">Jamie Babbit</a></td></tr></tbody></table>
+<a href="/modules/unit 1: comedy/cheerleader.jpg"><img alt="A half-length portrait of a young woman with long hair, wearing a bright pink formal dress and satin gloves. Behind her at a distance five cheerleaders in orange cheer-leading outfits perform cheer-leading maneuvers whilst falling through a bright blue sky. Across the portrait reads, in green, &quot;But I&#39;m a Cheerleader&quot;, and below, in smaller letters, &quot;A Comedy of Sexual Disorientation&quot;. At the top of the picture, in small letters are the names &quot;Natasha Lyonne, Clea Duvall, RuPaul Charles and Cathy Moriarty&quot;." src="/modules/unit 1: comedy/cheerleader.jpg" class="infobox-poster" /></a></td></tr>
+
+<tr><th scope="row" class="infobox-label">
+Directed by</th><td class="infobox-data"><a href="/wiki/Jamie_Babbit" title="Jamie Babbit">Jamie Babbit</a></td></tr>
+
+<tr><th scope="row" class="infobox-label">Running time</th>
+<td class="infobox-data">1h 25m</td></tr></tbody></table>
 
 
 <!-- ### Film background -->
