@@ -5,6 +5,7 @@ title: Teacher Q & A
 
 As a teacher myself, I know you may have questions about how to implement this course. I've tried to offer some answers here. If your question isn't answered here, send me an email at [sarah.lerman.schrag@gmail.com](mailto:sarah.lerman.schrag@gmail.com)
 
+<span id="q-grade"></span>
 ### What grade level is this course appropriate for?
 
 This course is most appropriate for an 11th or 12th grade course, or an undergraduate course. It was designed with high school students and high school systems in mind, but it could be adapted to fit an undergraduate course.
@@ -43,6 +44,7 @@ Each unit contains at least one text that I think does an excellent job of close
 
 In addition, Timothy Corrigan's book, [A Short Guide to Writing About Film](https://www.pearson.com/us/higher-education/program/Corrigan-Short-Guide-to-Writing-about-Film-A-9th-Edition/PGM332723.html) may be a beneficial resource for you to read or share excerpts of with your students.
 
+<span id="q-safe-env"></span>
 ### How can I help create a safe environment in my classroom for LGBTQ students?
 
 [GLSEN](https://www.glsen.org/) has lots of excellent resources for educators. In particular, their [Safe Space Kit](https://www.glsen.org/sites/default/files/2019-11/GLSEN%20English%20SafeSpace%20Book%20Text%20Updated%202019.pdf) is a comprehensive guide to help teachers educate themselves about how to be an active and effective advocate for LGBTQ students, including how to intervene in bullying and harassment, how to respond if students come out to you, and how to promote a culture of inclusion in your classroom.
