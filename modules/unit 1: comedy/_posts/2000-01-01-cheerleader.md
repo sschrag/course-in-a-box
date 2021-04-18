@@ -13,9 +13,9 @@ title: But I'm A Cheerleader
 But I'm a Cheerleader
 </th></tr> -->
 
-<tr><td colspan="2" class="infobox-image">
+<tr><td colspan="2" class="infobox-center">
 
-<a href="/modules/unit 1: comedy/cheerleader.jpg"><img alt="A half-length portrait of a young woman with long hair, wearing a bright pink formal dress and satin gloves. Behind her at a distance five cheerleaders in orange cheer-leading outfits perform cheer-leading maneuvers whilst falling through a bright blue sky. Across the portrait reads, in green, &quot;But I&#39;m a Cheerleader&quot;, and below, in smaller letters, &quot;A Comedy of Sexual Disorientation&quot;. At the top of the picture, in small letters are the names &quot;Natasha Lyonne, Clea Duvall, RuPaul Charles and Cathy Moriarty&quot;." src="/modules/unit 1: comedy/cheerleader.jpg" class="infobox-poster" /></a></td></tr>
+<a href="/modules/unit 1: comedy/cheerleader.jpg"><img src="/modules/unit 1: comedy/cheerleader.jpg" class="infobox-poster" /></a></td></tr>
 
 <tr><th scope="row" class="infobox-label">
 Directed by</th><td class="infobox-data"><a href="/wiki/Jamie_Babbit" title="Jamie Babbit">Jamie Babbit</a></td></tr>
@@ -26,16 +26,16 @@ Directed by</th><td class="infobox-data"><a href="/wiki/Jamie_Babbit" title="Jam
 <tr><th scope="row" class="infobox-label">Content warnings</th>
 <td class="infobox-data">Two non-explicit sex scenes, brief underage drinking, and humor about sexuality throughout.</td></tr>
 
-<tr><th colspan="2">
+<tr><th colspan="2" class="infobox-center">
 <a href="https://www.amazon.com/But-Im-Cheerleader-Bud-Cort/dp/B00FYJ37DY">View on Amazon Prime</a>
-</th></tr> -->
+</th></tr>
 
 </tbody></table>
 
 
 <!-- ### Film background -->
 
-*But I'm A Cheerleader* was released in 1999. It was directed by Jamie Babbit, and it was Babbit's first feature film. The film largely received a poor critical reception from most mainstream media outlets, often because it was perceived as engaging only stereotypes. More recent critical appraisals have considered it more positively, noting its use of satire and camp to critique heteronormativity. LGBTQ media outlets such as *AfterEllen* and *Autostraddle* have consistently ranked it one of the best queer films of all time. Initially, the film received an NC-17 rating; Babbit removed some content to earn it a commercially viable "R" rating. Babbit was interviewed in Kirby Dick's documentary *This Film is Not Yet Rated* (2000) and critiques the decision-making and demands of the MPAA, noting the sexism and homophobia implicit in much of their commentary.  
+*But I'm A Cheerleader* was directed by Jamie Babbit, and it was Babbit's first feature film. The film largely received a poor critical reception from most mainstream media outlets, often because it was perceived as engaging only stereotypes. More recent critical appraisals have considered it more positively, noting its use of satire and camp to critique heteronormativity. LGBTQ media outlets such as *AfterEllen* and *Autostraddle* have consistently ranked it one of the best queer films of all time. Initially, the film received an NC-17 rating; Babbit removed some content to earn it a commercially viable "R" rating. Babbit was interviewed in Kirby Dick's documentary *This Film is Not Yet Rated* (2000) and critiques the decision-making and demands of the MPAA, noting the sexism and homophobia implicit in much of their commentary.  
 
 ### Plot summary
 

@@ -57,7 +57,11 @@ section, .content {
     
 }
 
-.infobox-title {
+.infobox-center {
+  text-align: center
+}
+
+.infobox-center {
   font-weight: bold;
   text-align: center;
   font-size:110%;
@@ -70,10 +74,6 @@ section, .content {
 
 .infobox td, .infobox th {
   border: 0px;
-}
-
-.infobox-image {
-  text-align: center;
 }
 
 .infobox td, .infobox th {
