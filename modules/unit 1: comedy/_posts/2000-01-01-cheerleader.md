@@ -3,42 +3,29 @@ title: But I'm A Cheerleader
 ---
 # *But I'm A Cheerleader* (2000)
 
-<!-- <a href="/modules/unit 1: comedy/cheerleader.jpg">
-<img src="/modules/unit 1: comedy/cheerleader.jpg" class="poster">
-</a> -->
-
 <table class="infobox"><tbody>
-<!-- 
-<tr><th colspan="2" class="infobox-title">
-But I'm a Cheerleader
-</th></tr> -->
-
 <tr><td colspan="2" class="infobox-center">
 
-<a href="/modules/unit 1: comedy/cheerleader.jpg"><img src="/modules/unit 1: comedy/cheerleader.jpg" class="infobox-poster" /></a></td></tr>
+<a href="/modules/unit 1: comedy/cheerleader.jpg">
+<img src="/modules/unit 1: comedy/cheerleader.jpg" class="infobox-poster" />
+</a></td></tr>
 
-<tr><th scope="row" class="infobox-label">
-Directed by</th><td class="infobox-data">Jamie Babbit</td></tr>
+<tr><th scope="row" class="infobox-label">Directed by</th><td class="infobox-data">
+Jamie Babbit
+</td></tr><tr><th scope="row" class="infobox-label">Running time</th><td class="infobox-data">
 
-<tr><th scope="row" class="infobox-label">Running time</th>
-<td class="infobox-data">1h 25m</td></tr>
+1h 25m
 
-<tr><th scope="row" class="infobox-label">Core concepts this week</th>
-<td class="infobox-data">
+</td></tr><tr><th scope="row" class="infobox-label">Core concepts this week</th><td class="infobox-data">
+
 <p>Cheerleaders</p>
 <p>Pom-poms</p>
 <p>Conversion therapy</p>
 <p>Some very long academic term</p>
-</td></tr>
 
-<tr><th colspan="2" class="infobox-center">
-<a href="https://www.amazon.com/But-Im-Cheerleader-Bud-Cort/dp/B00FYJ37DY">View on Amazon Prime</a>
-</th></tr>
-
-</tbody></table>
-
-
-<!-- ### Film background -->
+</td></tr><tr><th colspan="2" class="infobox-center">
+<a href="https://www.amazon.com/But-Im-Cheerleader-Bud-Cort/dp/B00FYJ37DY">
+View on Amazon Prime</a></th></tr></tbody></table>
 
 *But I'm A Cheerleader* was directed by Jamie Babbit, and it was Babbit's first feature film. The film largely received a poor critical reception from most mainstream media outlets, often because it was perceived as engaging only stereotypes. More recent critical appraisals have considered it more positively, noting its use of satire and camp to critique heteronormativity. LGBTQ media outlets such as *AfterEllen* and *Autostraddle* have consistently ranked it one of the best queer films of all time. Initially, the film received an NC-17 rating; Babbit removed some content to earn it a commercially viable "R" rating. Babbit was interviewed in Kirby Dick's documentary *This Film is Not Yet Rated* (2000) and critiques the decision-making and demands of the MPAA, noting the sexism and homophobia implicit in much of their commentary.  
 
@@ -52,14 +39,6 @@ As the film opens, 17-year old cheerleader Megan (Natasha Lyonne) is subjected t
 
 ### Content warnings
 *But I'm A Cheerleader* contains two non-explicit sex scenes, brief underage drinking, and humor about sexuality throughout.
-
-<!--
-### Film link
-[*But I'm A Cheerleader* on Amazon Prime](https://www.amazon.com/But-Im-Cheerleader-Bud-Cort/dp/B00FYJ37DY)
-
-### Running Time
-
-1 h 25 m -->
 
 ### Notes
 * Because this is the first week of the course, Day 1 includes the introduction of some course systems and materials we will use throughout this course (student-led scene analysis model, film studies vocabulary, film screening notes). If you plan to rearrange the sequence of this course, you may want to move some of these introductory materials to whatever you choose to be the first week.
