@@ -2,7 +2,7 @@ h1, h2, h3, h4 {
   /* margin-bottom: 1em; */
 }
 
-table, table td, table th {
+#schedule table, #schedule table td, #schedule table th {
   border: 1px solid #777;
   font-size: 15px;
 }
@@ -54,4 +54,10 @@ section, .content {
     font-size: 88%;
     line-height: 1.5em;
     width: 22em;
+    
+}
+
+.infobox-above {
+  font-weight: bold;
+  text-align: center;
 }
