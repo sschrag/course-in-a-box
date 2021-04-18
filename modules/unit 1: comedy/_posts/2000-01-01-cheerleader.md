@@ -7,11 +7,13 @@ title: But I'm A Cheerleader
 <img src="/modules/unit 1: comedy/cheerleader.jpg" class="poster">
 </a> -->
 
-<table class="infobox vevent" style="font-size:90%;"><tbody><tr><th colspan="2" class="infobox-title">
-
+<table class="infobox"><tbody>
+<!-- 
+<tr><th colspan="2" class="infobox-title">
 But I'm a Cheerleader
+</th></tr> -->
 
-</th></tr><tr><td colspan="2" class="infobox-image">
+<tr><td colspan="2" class="infobox-image">
 
 <a href="/modules/unit 1: comedy/cheerleader.jpg"><img alt="A half-length portrait of a young woman with long hair, wearing a bright pink formal dress and satin gloves. Behind her at a distance five cheerleaders in orange cheer-leading outfits perform cheer-leading maneuvers whilst falling through a bright blue sky. Across the portrait reads, in green, &quot;But I&#39;m a Cheerleader&quot;, and below, in smaller letters, &quot;A Comedy of Sexual Disorientation&quot;. At the top of the picture, in small letters are the names &quot;Natasha Lyonne, Clea Duvall, RuPaul Charles and Cathy Moriarty&quot;." src="/modules/unit 1: comedy/cheerleader.jpg" class="infobox-poster" /></a></td></tr>
 
@@ -19,7 +21,16 @@ But I'm a Cheerleader
 Directed by</th><td class="infobox-data"><a href="/wiki/Jamie_Babbit" title="Jamie Babbit">Jamie Babbit</a></td></tr>
 
 <tr><th scope="row" class="infobox-label">Running time</th>
-<td class="infobox-data">1h 25m</td></tr></tbody></table>
+<td class="infobox-data">1h 25m</td></tr>
+
+<tr><th scope="row" class="infobox-label">Content warnings</th>
+<td class="infobox-data">Two non-explicit sex scenes, brief underage drinking, and humor about sexuality throughout.</td></tr>
+
+<tr><th colspan="2">
+<a href="https://www.amazon.com/But-Im-Cheerleader-Bud-Cort/dp/B00FYJ37DY">View on Amazon Prime</a>
+</th></tr> -->
+
+</tbody></table>
 
 
 <!-- ### Film background -->
@@ -34,7 +45,7 @@ As the film opens, 17-year old cheerleader Megan (Natasha Lyonne) is subjected t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HnUvneNxoz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Content warnings
+<!-- ### Content warnings
 *But I'm A Cheerleader* contains two non-explicit sex scenes, brief underage drinking, and humor about sexuality throughout.
 
 ### Film link
@@ -42,7 +53,7 @@ As the film opens, 17-year old cheerleader Megan (Natasha Lyonne) is subjected t
 
 ### Running Time
 
-1 h 25 m
+1 h 25 m -->
 
 ### Notes
 * Because this is the first week of the course, Day 1 includes the introduction of some course systems and materials we will use throughout this course (student-led scene analysis model, film studies vocabulary, film screening notes). If you plan to rearrange the sequence of this course, you may want to move some of these introductory materials to whatever you choose to be the first week.
