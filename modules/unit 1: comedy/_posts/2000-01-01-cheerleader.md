@@ -27,6 +27,8 @@ Jamie Babbit
 <a href="https://www.amazon.com/But-Im-Cheerleader-Bud-Cort/dp/B00FYJ37DY">
 View on Amazon Prime</a></th></tr></tbody></table>
 
+### Film background
+
 *But I'm A Cheerleader* was directed by Jamie Babbit, and it was Babbit's first feature film. The film largely received a poor critical reception from most mainstream media outlets, often because it was perceived as engaging only stereotypes. More recent critical appraisals have considered it more positively, noting its use of satire and camp to critique heteronormativity. LGBTQ media outlets such as *AfterEllen* and *Autostraddle* have consistently ranked it one of the best queer films of all time. Initially, the film received an NC-17 rating; Babbit removed some content to earn it a commercially viable "R" rating. Babbit was interviewed in Kirby Dick's documentary *This Film is Not Yet Rated* (2000) and critiques the decision-making and demands of the MPAA, noting the sexism and homophobia implicit in much of their commentary.  
 
 ### Plot summary
