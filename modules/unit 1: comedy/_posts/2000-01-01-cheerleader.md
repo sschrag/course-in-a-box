@@ -49,7 +49,7 @@ As the film opens, 17-year old cheerleader Megan (Natasha Lyonne) is subjected t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HnUvneNxoz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
- ### Content warnings
+### Content warnings
 *But I'm A Cheerleader* contains two non-explicit sex scenes, brief underage drinking, and humor about sexuality throughout.
 
 <!--
