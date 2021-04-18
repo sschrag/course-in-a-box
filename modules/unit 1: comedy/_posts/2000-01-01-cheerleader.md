@@ -25,10 +25,11 @@ Directed by</th><td class="infobox-data">Jamie Babbit</td></tr>
 
 <tr><th scope="row" class="infobox-label">Core concepts this week</th>
 <td class="infobox-data">
-Cheerleaders<br />
-Pom-poms<br />
-Conversion therapy<br />
-Some very long academic term<br /></td></tr>
+<p>Cheerleaders</p>
+<p>Pom-poms</p>
+<p>Conversion therapy</p>
+<p>Some very long academic term</p>
+</td></tr>
 
 <tr><th colspan="2" class="infobox-center">
 <a href="https://www.amazon.com/But-Im-Cheerleader-Bud-Cort/dp/B00FYJ37DY">View on Amazon Prime</a>
