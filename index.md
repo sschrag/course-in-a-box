@@ -2,8 +2,6 @@
 layout: index
 published: true
 ---
-**Note:** This website is my capstone project for my M.A. in English at Georgetown University. It will be completed by May 2021. Please feel free to contact me at sls361@georgetown.edu with any questions.
-
 ## Why Queer Cinema?
 
 Welcome to my curriculum on queer cinema, designed for high school students. Cinema studies is a field that receives little attention in high schools, despite the significance of audiovisual communication in adolescents’ daily lives. Armed with the disciplinary tools of cinema studies, adolescents can be better equipped to critically examine the media that surrounds them. Additionally, analysis of film and television is highly engaging to many high school students, and high engagement with the primary texts of this course will lead students to higher engagement with the rigorous secondary texts in this course, which consist largely of queer theory and film criticism works. Ultimately, the goals of this course are to sharpen students’ analytical skills, engage them with core concepts in cinema and queer theory, and help them critically deconstruct and challenge homophobia and transphobia.
