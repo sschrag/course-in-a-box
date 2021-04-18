@@ -57,7 +57,7 @@ section, .content {
 }
 
 @media (min-width:590px)  {
-  img.poster {
+  .infobox {
     width: 20em;
   }
 }
