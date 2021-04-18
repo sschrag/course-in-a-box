@@ -23,9 +23,6 @@ Directed by</th><td class="infobox-data"><a href="/wiki/Jamie_Babbit" title="Jam
 <tr><th scope="row" class="infobox-label">Running time</th>
 <td class="infobox-data">1h 25m</td></tr>
 
-<tr><th scope="row" class="infobox-label">Content warnings</th>
-<td class="infobox-data">Two non-explicit sex scenes, brief underage drinking, and humor about sexuality throughout.</td></tr>
-
 <tr><th colspan="2" class="infobox-center">
 <a href="https://www.amazon.com/But-Im-Cheerleader-Bud-Cort/dp/B00FYJ37DY">View on Amazon Prime</a>
 </th></tr>
@@ -45,9 +42,10 @@ As the film opens, 17-year old cheerleader Megan (Natasha Lyonne) is subjected t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HnUvneNxoz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<!-- ### Content warnings
+ ### Content warnings
 *But I'm A Cheerleader* contains two non-explicit sex scenes, brief underage drinking, and humor about sexuality throughout.
 
+<!--
 ### Film link
 [*But I'm A Cheerleader* on Amazon Prime](https://www.amazon.com/But-Im-Cheerleader-Bud-Cort/dp/B00FYJ37DY)
 
