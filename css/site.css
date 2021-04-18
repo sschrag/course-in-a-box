@@ -91,3 +91,7 @@ section, .content {
 .infobox p {
   margin-bottom: 8px;
 }
+
+li {
+  margin: 0 0 10px 0;
+}
