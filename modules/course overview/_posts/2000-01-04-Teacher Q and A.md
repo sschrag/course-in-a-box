@@ -3,7 +3,7 @@ title: Teacher Q & A
 ---
 # Teacher Q & A
 
-As a teacher myself, I know you may have questions about how to implement this course. I've tried to offer some answers here. If your question isn't answered here, send me an email at [sarah.lerman.schrag@gmail.com](mailto:sarah.lerman.schrag@gmail.com)
+As a teacher myself, I know you may have questions about how to implement this course. I've tried to offer some answers here. If your question isn't answered here, send me an email at [sarah.lerman.schrag@gmail.com](mailto:sarah.lerman.schrag@gmail.com).
 
 <ul id="q-and-a">
 <li><a href="#q-grade">
