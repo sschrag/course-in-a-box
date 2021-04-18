@@ -82,6 +82,6 @@ section, .content {
   max-width: 10rem;
 }
 
-.infobox tr {
-  
+.infobox p {
+  margin-bottom: 8px;
 }
