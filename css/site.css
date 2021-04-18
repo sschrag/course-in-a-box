@@ -78,10 +78,9 @@ section, .content {
 
 .infobox td, .infobox th {
     vertical-align: top;
-    text-align: left;
 }
 
-.infobox-label th {
+th .infobox-label {
   white-space:nowrap;
   padding:0em 0.65em;
 }
