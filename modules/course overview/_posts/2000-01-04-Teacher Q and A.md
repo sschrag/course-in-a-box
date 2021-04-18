@@ -6,8 +6,12 @@ title: Teacher Q & A
 As a teacher myself, I know you may have questions about how to implement this course. I've tried to offer some answers here. If your question isn't answered here, send me an email at [sarah.lerman.schrag@gmail.com](mailto:sarah.lerman.schrag@gmail.com)
 
 - [What grade level is this course appropriate for?](#q-grade)
+- [This material interests me, but I don't have the time to teach an entire course on it. How else can I use this material?](#q-time)
+- [How should I introduce students to the study of film?](#q-introduce)
+- [How should I approach my administration about developing this course?](#q-admin)
+- [I'm concerned about the text complexity of this course. How can I adapt this course to suit my students' reading skill levels?](#q-complexity)
+- [How can I help students learn to write effectively about film?](#q-write)
 - [How can I help create a safe environment in my classroom for LGBTQ students?](#q-safe)
-
 
 <span id="q-grade"></span>
 ### What grade level is this course appropriate for?
