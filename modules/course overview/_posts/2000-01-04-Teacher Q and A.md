@@ -5,6 +5,10 @@ title: Teacher Q & A
 
 As a teacher myself, I know you may have questions about how to implement this course. I've tried to offer some answers here. If your question isn't answered here, send me an email at [sarah.lerman.schrag@gmail.com](mailto:sarah.lerman.schrag@gmail.com)
 
+<ul>
+<a href="#q-safe-env"><li>How can I help create a safe environment in my classroom for LGBTQ students?</li></a>
+</ul>
+
 <span id="q-grade"></span>
 ### What grade level is this course appropriate for?
 
