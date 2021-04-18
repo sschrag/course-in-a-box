@@ -17,13 +17,13 @@ The film follows a 20-year old transgender woman, Ricky (Michelle Hendley), who 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IdfjFo5uc4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-#### Content warnings
+### Content warnings
 *Boy Meets Girl* contains brief nudity, references to self-harm, transphobic comments, and frank discussion of sexual acts.
 
-#### Film link
+### Film link
 [*Boy Meets Girl* on Amazon Prime](https://www.amazon.com/Boy-Meets-Girl-Michael-Welch/dp/B087M6FKY1/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=&sr=)
 
-#### Running time
+### Running time
 1 h, 39 m
 
 ### Notes

@@ -18,13 +18,13 @@ The film begins with Shirin moving out of Maxine's apartment and commiserrating 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IjZ80dLFFfE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-#### Film link
+### Film link
 [*Appropriate Behavior* on Amazon Prime](https://www.amazon.com/Appropriate-Behavior-Desiree-Akhavan/dp/B00SB2SDPS)
 
-#### Content warning
+### Content warning
 *Appropriate Behavior* contains brief nudity, two sex scenes, sexual humor, and marijuana use.
 
-#### Running time
+### Running time
 1 h, 26 m
 
 ### Materials for this week
