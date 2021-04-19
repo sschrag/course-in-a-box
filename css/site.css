@@ -57,6 +57,7 @@ section, .content {
   font-size: 88%;
   line-height: 1.5em;
   width: 100%;
+  box-shadow: 4px 4px 2px #f49fe6;
 }
 
 @media (min-width:590px)  {
