@@ -2,9 +2,30 @@
 title: Saving Face
 ---
 # *Saving Face* (2004)
+
+<table class="infobox"><tbody>
+<tr><td colspan="2" class="infobox-center">
+
 <a href="/modules/unit 1: comedy/savingface.jpg">
-<img src="/modules/unit 1: comedy/savingface.jpg" class="poster">
-</a>
+<img src="/modules/unit 1: comedy/savingface.jpg" class="infobox-poster" />
+</a></td></tr>
+
+<tr><th scope="row" class="infobox-label">Directed by</th><td class="infobox-data">
+Alice Wu
+</td></tr><tr><th scope="row" class="infobox-label">Running time</th><td class="infobox-data">
+
+1h 37m
+
+</td></tr><tr><th scope="row" class="infobox-label">Core concepts this week</th><td class="infobox-data">
+
+<p>family "face"</p>
+<p>diasporic identities</p>
+<p>coming out</p>
+<p>Sinophone studies</p>
+
+</td></tr><tr><th colspan="2" class="infobox-center">
+<a href="https://www.amazon.com/Saving-Face-Michelle-Krusiec/dp/B0891RPXNY">
+View on Amazon Prime</a></th></tr></tbody></table>
 
 ### Film background
 
@@ -16,12 +37,6 @@ The film centers on Wil (Michelle Krusiec), who is a Chinese American surgeon li
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/78h8WeP3Oas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-### Film link
-[*Saving Face* on Amazon Prime](https://www.amazon.com/Saving-Face-Michelle-Krusiec/dp/B0891RPXNY)
-
-### Running Time
-1 h, 37 m
 
 ### Content warning
 *Saving Face* contains one scene of sexuality, including brief nudity.
