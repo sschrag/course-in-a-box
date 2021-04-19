@@ -1,7 +1,7 @@
 ---
-title: San Junipero in Black Mirror
+title: Black Mirror: San Junipero
 ---
-# "San Junipero" in *Black Mirror* (2016)
+# *Black Mirror*: "San Junipero" (2016)
 
 <table class="infobox"><tbody>
 <tr><td colspan="2" class="infobox-center">
