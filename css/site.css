@@ -50,14 +50,14 @@ section, .content {
   border-spacing: 3px;
   background-color: #eaf8ff;
   color: black;
-  margin: 0.5em 0 0.5em 1em;
+  margin: 0.5em 0 1.5em 1em;
   padding: 0.2em;
   float: right;
   clear: right;
   font-size: 88%;
   line-height: 1.5em;
   width: 100%;
-  box-shadow: 4px 4px 2px #f49fe6;
+  box-shadow: 4px 4px 2px hsl(310deg 59% 59%);
 }
 
 @media (min-width:590px)  {
@@ -98,4 +98,10 @@ section, .content {
 
 #q-and-a li {
   margin: 0 0 10px 0;
+}
+
+#cred-footer {
+  margin-top: 5em;
+  font-size: 90%;
+  color: #777;
 }
