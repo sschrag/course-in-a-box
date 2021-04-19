@@ -17,3 +17,8 @@ This contains lesson plans and materials designed for a **semester-long course**
 * **Day 1: Close reading:** Following each weekly viewing, students will spend a class period close-reading significant scenes and discussing the film’s use of literary and cinematic techniques. 	
 * **Day 2: Applying film criticism:** The following period, students will examine film criticism pieces that engage the specific film being discussed that week. This process will help students learn how to unpack and engage with academic scholarship, and will deepen students’ understandings of the film being examined that week.
 * **Day 3: Applying queer theory:** At the end of each week, students will examine a brief work of queer theory and apply the theoretical frameworks utilized by the authors to that week’s film or show. This weekly cycle will provide students with opportunities to grapple with core concepts in queer theory and apply them to visual media.
+
+
+<div id="cred-footer">
+<p>This site was built using <a href="https://course-in-a-box.p2pu.org">Course in a Box</a>, a project of <a href="https://www.p2pu.org">P2PU</a>.</p>
+</div>
