@@ -38,7 +38,7 @@ The film begins with Shirin moving out of Maxine's apartment and commiserrating 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IjZ80dLFFfE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Content warning
+### Content warnings
 *Appropriate Behavior* contains brief nudity, two sex scenes, sexual humor, and marijuana use.
 
 ### Materials for this week

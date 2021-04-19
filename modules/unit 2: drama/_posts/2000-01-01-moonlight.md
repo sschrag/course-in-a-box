@@ -39,7 +39,7 @@ View on Amazon Prime</a></th></tr></tbody></table>
 ### Content warnings
 *Moonlight* includes two scenes of non-explicit sexuality, one scene involving a violent fight, and drug abuse.
 
-### Notes:
+### Notes
 * This week, we are reading two articles that specifically address *Moonlight,* rather than one on *Moonlight* and one work that does not address the film. This is because both of these articles are accessible, but slightly too long for a single night's assignment, and they provide interesting counterpoints for discussion.
 * L. H. Stallings' piece, "Am I a Faggot?" extensively uses the phrase, "Negro faggotry," borrowing from Marlon Riggs' use of the term in "Black Macho Revisited: Reflections of a Snap! Queen" (which is paired with his film, *Tongues Untied* in the documentary unit). You may want to consider how to approach Stallings' use of this term as part of her claim in your classroom.
 
