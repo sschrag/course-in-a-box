@@ -2,6 +2,12 @@ h1, h2, h3, h4 {
   /* margin-bottom: 1em; */
 }
 
+h1 {
+  color: #662ce6;
+  text-shadow: 2px 2px 2px #f28ee1;
+  font-size: 45px;
+}
+
 table, table td, table th {
   border: 2px solid #fff;
   font-size: 15px;
