@@ -7,7 +7,7 @@ title: Moonlight
 <tr><td colspan="2" class="infobox-center">
 
 <a href="/modules/unit 2: drama/moonlight.jpg">
-<img src="/modules/unit 1: drama/moonlight.jpg" class="infobox-poster" />
+<img src="/modules/unit 2: drama/moonlight.jpg" class="infobox-poster" />
 </a></td></tr>
 
 <tr><th scope="row" class="infobox-label">Directed by</th><td class="infobox-data">
