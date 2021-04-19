@@ -3,9 +3,31 @@ title: San Junipero in Black Mirror
 ---
 # "San Junipero" in *Black Mirror* (2016)
 
+<table class="infobox"><tbody>
+<tr><td colspan="2" class="infobox-center">
+
 <a href="/modules/unit 4: queer utopias/sanjunipero.jpg">
-<img src="/modules/unit 4: queer utopias/sanjunipero.jpg" class="poster">
-</a>
+<img src="/modules/unit 4: queerutopias/sanjunipero.jpg" class="infobox-poster" />
+</a></td></tr>
+
+<tr><th scope="row" class="infobox-label">Directed by</th><td class="infobox-data">
+Charlie Brooker
+</td></tr><tr><th scope="row" class="infobox-label">Running time</th><td class="infobox-data">
+
+1h 1m
+
+</td></tr><tr><th scope="row" class="infobox-label">Core concepts this week</th><td class="infobox-data">
+
+<p>queer utopia</p>
+<p>queer futurity</p>
+<p>queer time</p>
+<p>straight time</p>
+<p>reproductive temporality</p>
+<p>alternative temporality</p>
+
+</td></tr><tr><th colspan="2" class="infobox-center">
+<a href="https://www.netflix.com/watch/80104625?trackId=13752289&tctx=0%2C0%2Ceec351eaa2a1c20b38706f7734cfd84eb167f32a%3A51ebef661f29ea4f7f18068b628180b73556d9d6%2Ceec351eaa2a1c20b38706f7734cfd84eb167f32a%3A51ebef661f29ea4f7f18068b628180b73556d9d6%2Cunknown%2C">
+View on Netflix</a></th></tr></tbody></table>
 
 ### Background
 
@@ -23,15 +45,11 @@ As the episode opens, Yorkie (Mackenzie Davis) enters a nightclub in a Californi
 "San Junipero" contains non-explicit references to sexuality.
 
 ### Running time
-1 hr, 1 min
-
-### Episode link
-["San Junipero" on Netflix](https://www.netflix.com/watch/80104625?trackId=13752289&tctx=0%2C0%2Ceec351eaa2a1c20b38706f7734cfd84eb167f32a%3A51ebef661f29ea4f7f18068b628180b73556d9d6%2Ceec351eaa2a1c20b38706f7734cfd84eb167f32a%3A51ebef661f29ea4f7f18068b628180b73556d9d6%2Cunknown%2C)  
+1 hr, 1 min 
 
 ### Notes
 * Because this week is the beginning of the “Queer Utopia” unit, I am including two queer theory texts that we will continue to engage with throughout the unit, rather than one film criticism piece and one queer theory piece – excerpts from Jack Halberstam’s *In a Queer Time and Place,* and from Jose Esteban Muñoz’s *Cruising Utopia.* Before the "day 1" class period, students will read the first page of *Cruising Utopia* to introduce this unit, along with their regular screening. Before "day 2," students will read an excerpt from the introduction of *In A Queer Time and Place,* and before "day 3," students will read Chapter 1 of *Cruising Utopia.* As always, feel free to re-arrange or cut this material in ways that would suit your class structure better.
 * Chapter 1 of *Cruising Utopia* will also be used in Day 1 of next week's sequence on *Pose;* remind students to hold onto this reading.
-
 
 ### Materials for this week
 * Lesson plans [<a href="/modules/unit 4: queer utopias/San Junipero LP.docx" download>Word doc</a>]

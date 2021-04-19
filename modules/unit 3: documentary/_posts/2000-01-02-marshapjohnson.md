@@ -1,7 +1,9 @@
 ---
-title: The Death and Life of Marsha P. Johnson
+title: Marsha P. Johnson
 ---
-# *The Death and Life of Marsha P. Johnson* (2017) and *Happy Birthday, Marsha!* (2018)
+This week, we will be comparing two films that examine the life and legacy of Marsha P. Johnson, *The Death and Life of Marsha P. Johnson,* and *Happy Birthday, Marsha!*
+
+# *The Death and Life of Marsha P. Johnson* (2017)
 
 <table class="infobox"><tbody>
 <tr><td colspan="2" class="infobox-center">
@@ -38,6 +40,8 @@ View on Netflix</a></th></tr></tbody></table>
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pADsuuPd79E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+# *Happy Birthday, Marsha!* (2018)
 
 <table class="infobox"><tbody>
 <tr><td colspan="2" class="infobox-center">
