@@ -44,9 +44,6 @@ As the episode opens, Yorkie (Mackenzie Davis) enters a nightclub in a Californi
 ### Content warnings
 "San Junipero" contains non-explicit references to sexuality.
 
-### Running time
-1 hr, 1 min 
-
 ### Notes
 * Because this week is the beginning of the “Queer Utopia” unit, I am including two queer theory texts that we will continue to engage with throughout the unit, rather than one film criticism piece and one queer theory piece – excerpts from Jack Halberstam’s *In a Queer Time and Place,* and from Jose Esteban Muñoz’s *Cruising Utopia.* Before the "day 1" class period, students will read the first page of *Cruising Utopia* to introduce this unit, along with their regular screening. Before "day 2," students will read an excerpt from the introduction of *In A Queer Time and Place,* and before "day 3," students will read Chapter 1 of *Cruising Utopia.* As always, feel free to re-arrange or cut this material in ways that would suit your class structure better.
 * Chapter 1 of *Cruising Utopia* will also be used in Day 1 of next week's sequence on *Pose;* remind students to hold onto this reading.
