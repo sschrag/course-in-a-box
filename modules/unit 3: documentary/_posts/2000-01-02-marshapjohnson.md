@@ -34,7 +34,7 @@ View on Netflix</a></th></tr></tbody></table>
 ### Film background and summary
 *The Death and Life of Marsha P. Johnson* is a 2017 documentary, directed by David France, who is a white gay cisgender male filmmaker and journalist. It is France's second documentary; he also directed *How To Survive a Plague* (2012), which focuses on HIV/AIDS and the ACT UP movement in New York City in the 1980s and 1990s. *The Death and Life of Marsha P. Johnson* chronicles the story of Marsha P. Johnson, a Black trans woman who was a prominent figure in the Stonewall rebellion, co-founded the group Street Transvestite Action Revolutionaries in the 1970s with Sylvia Rivera, and was an LGBTQ advocate until her death in 1992. The film follows Victoria Cruz, an anti-violence advocate, as she investigates the circumstances of Johnson's death.
 
-### Content warning
+### Content warnings
 *The Death and Life of Marsha P. Johnson* contains brief nudity and discussions of violence, murder, sex work, and suicide.
 
 <div class="video-container">
@@ -78,7 +78,7 @@ View on Amazon Prime</a></th></tr></tbody></table>
 <p><a href="https://vimeo.com/145921994">Official Trailer for Happy Birthday, Marsha!</a> from <a href="https://vimeo.com/sashawortzel">sasha wortzel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
-### Content warning
+### Content warnings
 
 *Happy Birthday, Marsha* contains police brutality.
 

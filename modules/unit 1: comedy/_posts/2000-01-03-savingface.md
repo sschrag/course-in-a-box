@@ -38,7 +38,7 @@ The film centers on Wil (Michelle Krusiec), who is a Chinese American surgeon li
 <iframe width="560" height="315" src="https://www.youtube.com/embed/78h8WeP3Oas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Content warning
+### Content warnings
 *Saving Face* contains one scene of sexuality, including brief nudity.
 
 ### Notes
