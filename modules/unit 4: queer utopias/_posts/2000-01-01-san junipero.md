@@ -1,5 +1,5 @@
 ---
-title: Black Mirror: San Junipero
+title: Black Mirror
 ---
 # *Black Mirror*: "San Junipero" (2016)
 
