@@ -3,9 +3,29 @@ title: Disclosure
 ---
 # *Disclosure: Trans Lives on Screen* (2020)
 
+<table class="infobox"><tbody>
+<tr><td colspan="2" class="infobox-center">
+
 <a href="/modules/unit 3: documentary/disclosure.jpg">
-<img src="/modules/unit 3: documentary/disclosure.jpg" class="poster">
-</a>
+<img src="/modules/unit 3: documentary/disclosure.jpg" class="infobox-poster" />
+</a></td></tr>
+
+<tr><th scope="row" class="infobox-label">Directed by</th><td class="infobox-data">
+Sam Feder
+</td></tr><tr><th scope="row" class="infobox-label">Running time</th><td class="infobox-data">
+
+1h 40m
+
+</td></tr><tr><th scope="row" class="infobox-label">Core concepts this week</th><td class="infobox-data">
+
+<p>trans representation</p>
+<p>objectivity</p>
+<p>documentary modes</p>
+<p>participatory mode</p>
+
+</td></tr><tr><th colspan="2" class="infobox-center">
+<a href="https://www.netflix.com/watch/81284247?trackId=13752289&tctx=0%2C0%2Cc52788b3e7134c279c86d6bb968bf169db8c2c48%3A7e15f0ee95e1636836223efbf3f0334f91377b42%2Cc52788b3e7134c279c86d6bb968bf169db8c2c48%3A7e15f0ee95e1636836223efbf3f0334f91377b42%2Cunknown%2C">
+View on Netflix</a></th></tr></tbody></table>
 
 ### Film background and summary
 *Disclosure: Trans Lives on Screen* is a 2020 documentary directed by Sam Feder. It features interviews with many transgender actors, writers and producers, including Laverne Cox, Lilly Wachowski, Zackary Drucker, Jen Richards, MJ Rodriguez, Ser Anzoategui, and many others. The film uses extensive footage from film and television over the last 100 years to examine the history of trans representation on screen, and interviews trans members of the film industry about their experiences as actors, creators, and spectators. Much of the film focuses on how audiences--both trans and cis--are often impacted by the portrayals of trans people they see in film. Some films addressed in the documentary include *Paris is Burning,* *The Crying Game,* *Boys Don't Cry,* *Psycho,* *Ma Vie En Rose,* and *The Matrix,* among many others. Some television series discussed include *Transparent,* *Pose,* *Nip/Tuck,* and the genres of daytime talk shows, police shows and hospital shows. Topics include cis casting of trans roles, historical stereotypes, appropriation, and trans visibility.
@@ -16,12 +36,6 @@ title: Disclosure
 
 ### Content warnings
 *Disclosure* contains many brief clips of other films that include nudity, sexuality, references to sex work, transphobia and violence.
-
-### Film link
-[*Disclosure* on Netflix](https://www.netflix.com/watch/81284247?trackId=13752289&tctx=0%2C0%2Cc52788b3e7134c279c86d6bb968bf169db8c2c48%3A7e15f0ee95e1636836223efbf3f0334f91377b42%2Cc52788b3e7134c279c86d6bb968bf169db8c2c48%3A7e15f0ee95e1636836223efbf3f0334f91377b42%2Cunknown%2C)
-
-### Running time
-1 h 40 min
 
 ### Materials for this week
 * Lesson plans [<a href="/modules/unit 3: documentary/Disclosure LP.docx" download>Word doc</a>]

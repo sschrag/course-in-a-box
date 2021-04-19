@@ -3,9 +3,28 @@ title: Moonlight
 ---
 # *Moonlight* (2016)
 
+<table class="infobox"><tbody>
+<tr><td colspan="2" class="infobox-center">
+
 <a href="/modules/unit 2: drama/moonlight.jpg">
-<img src="/modules/unit 2: drama/moonlight.jpg" class="poster">
-</a>
+<img src="/modules/unit 2: drama/moonlight.jpg" class="infobox-poster" />
+</a></td></tr>
+
+<tr><th scope="row" class="infobox-label">Directed by</th><td class="infobox-data">
+Barry Jenkins
+</td></tr><tr><th scope="row" class="infobox-label">Running time</th><td class="infobox-data">
+
+1h 51m
+
+</td></tr><tr><th scope="row" class="infobox-label">Core concepts this week</th><td class="infobox-data">
+
+<p>quare studies</p>
+<p>femme phobia</p>
+<p>makeshift masculinity</p>
+
+</td></tr><tr><th colspan="2" class="infobox-center">
+<a href="https://www.amazon.com/Moonlight-Mahershala-Ali/dp/B01MU9CMGJ">
+View on Amazon Prime</a></th></tr></tbody></table>
 
 ### Film background
 *Moonlight* is a 2016 film written and directed by Barry Jenkins, based on a play titled *In Moonlight Black Boys Look Blue* by Tarell Alvin McCraney, who also worked on the development of the film as a story writer and executive producer. *Moonlight* was Jenkins' second film and it garnered critical acclaim for Jenkins. Following its success, he went on to direct *If Beale Street Could Talk* (2018) and *The Underground Railroad* (2020). Both Jenkins and McCraney grew up in Liberty City, Miami, which is the setting for *Moonlight*, and both men were raised by mothers who struggled with drug addiction. McCraney identifies as gay, and Jenkins identifies as straight. *Moonlight* won many awards, including the Academy Awards for Best Picture, Best Adapted Screenplay, and Best Supporting Actor (Mahershala Ali).
@@ -19,12 +38,6 @@ title: Moonlight
 
 ### Content warnings
 *Moonlight* includes two scenes of non-explicit sexuality, one scene involving a violent fight, and drug abuse.
-
-### Film link
-[*Moonlight* on Amazon Prime](https://www.amazon.com/Moonlight-Mahershala-Ali/dp/B01MU9CMGJ) (Also available on Netflix)
-
-### Running time
-1 h, 51 m
 
 ### Notes:
 * This week, we are reading two articles that specifically address *Moonlight,* rather than one on *Moonlight* and one work that does not address the film. This is because both of these articles are accessible, but slightly too long for a single night's assignment, and they provide interesting counterpoints for discussion.

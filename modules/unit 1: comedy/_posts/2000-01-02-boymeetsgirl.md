@@ -3,9 +3,28 @@ title: Boy Meets Girl
 ---
 # *Boy Meets Girl* (2014)
 
+<table class="infobox"><tbody>
+<tr><td colspan="2" class="infobox-center">
+
 <a href="/modules/unit 1: comedy/boymeetsgirl.jpg">
-<img src="/modules/unit 1: comedy/boymeetsgirl.jpg" class="poster">
-</a>
+<img src="/modules/unit 1: comedy/boymeetsgirl.jpg" class="infobox-poster" />
+</a></td></tr>
+
+<tr><th scope="row" class="infobox-label">Directed by</th><td class="infobox-data">
+Eric Schaeffer
+</td></tr><tr><th scope="row" class="infobox-label">Running time</th><td class="infobox-data">
+
+1h 39m
+
+</td></tr><tr><th scope="row" class="infobox-label">Core concepts this week</th><td class="infobox-data">
+
+<p>trans representation</p>
+<p>cisgender privilege</p>
+
+</td></tr><tr><th colspan="2" class="infobox-center">
+<a href="https://www.amazon.com/Boy-Meets-Girl-Michael-Welch/dp/B087M6FKY1/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=&sr=">
+View on Amazon Prime</a></th></tr></tbody></table>
+
 
 ### Film background
 *Boy Meets Girl* was released in 2014. It was written and directed by Eric Schaeffer, who is a cisgender man. Schaeffer was adamant that the role of Ricky go to a transgender woman, explaining to [Filmmaker Magazine](https://filmmakermagazine.com/92758-five-questions-for-boy-meets-girl-director-eric-schaeffer/#.YEfs411Ki6o), "Being an independent filmmaker, I had the latitude to cast a trans woman and not have to satisfy a studio (which would have ponied up a ton of money) by casting a famous cisgender man or cisgender woman, which likely they would have required. I felt it socially important that a trans woman play the trans part." Schaeffer cast Michelle Hendley, who was in cosmetology school and had never acted before, but who had a [YouTube channel](https://www.youtube.com/c/ChelleHendley/videos) in which she spoke openly about her identity, her interests, and her transition. The film was nominated for many LGBTQ film awards, including a GLAAD Media Award.
@@ -19,12 +38,6 @@ The film follows a 20-year old transgender woman, Ricky (Michelle Hendley), who 
 
 ### Content warnings
 *Boy Meets Girl* contains brief nudity, references to self-harm, transphobic comments, and frank discussion of sexual acts.
-
-### Film link
-[*Boy Meets Girl* on Amazon Prime](https://www.amazon.com/Boy-Meets-Girl-Michael-Welch/dp/B087M6FKY1/ref=tmm_aiv_swatch_0?_encoding=UTF8&qid=&sr=)
-
-### Running time
-1 h, 39 m
 
 ### Notes
 * I’ve provided 3 clips/trailers from films mentioned by Julia Serano in Chapter 2 of Whipping Girl. Because the reading for Day 2’s class is short, you may want to also assign students to watch these videos before class, as it may give students a sense of the archetypes that Serano addresses in her reading.

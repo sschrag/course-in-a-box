@@ -18,10 +18,12 @@ Jamie Babbit
 
 </td></tr><tr><th scope="row" class="infobox-label">Core concepts this week</th><td class="infobox-data">
 
-<p>Cheerleaders</p>
-<p>Pom-poms</p>
-<p>Conversion therapy</p>
-<p>Some very long academic term</p>
+<p>romantic comedy</p>
+<p>sexual orientation</p>
+<p>gender identity</p>
+<p>heteronormativity</p>
+<p>conversion therapy</p>
+<p>queer failure</p>
 
 </td></tr><tr><th colspan="2" class="infobox-center">
 <a href="https://www.amazon.com/But-Im-Cheerleader-Bud-Cort/dp/B00FYJ37DY">
@@ -29,7 +31,7 @@ View on Amazon Prime</a></th></tr></tbody></table>
 
 ### Film background
 
-*But I'm A Cheerleader* was directed by Jamie Babbit, and it was Babbit's first feature film. The film largely received a poor critical reception from most mainstream media outlets, often because it was perceived as engaging only stereotypes. More recent critical appraisals have considered it more positively, noting its use of satire and camp to critique heteronormativity. LGBTQ media outlets such as *AfterEllen* and *Autostraddle* have consistently ranked it one of the best queer films of all time. Initially, the film received an NC-17 rating; Babbit removed some content to earn it a commercially viable "R" rating. Babbit was interviewed in Kirby Dick's documentary *This Film is Not Yet Rated* (2000) and critiques the decision-making and demands of the MPAA, noting the sexism and homophobia implicit in much of their commentary.  
+*But I'm A Cheerleader* was Jamie Babbit's first feature film. The film largely received a poor critical reception from most mainstream media outlets, often because it was perceived as engaging only stereotypes. More recent critical appraisals have considered it more positively, noting its use of satire and camp to critique heteronormativity. LGBTQ media outlets such as *AfterEllen* and *Autostraddle* have consistently ranked it one of the best queer films of all time. Initially, the film received an NC-17 rating; Babbit removed some content to earn it a commercially viable "R" rating. Babbit was interviewed in Kirby Dick's documentary *This Film is Not Yet Rated* (2000) and critiques the decision-making and demands of the MPAA, noting the sexism and homophobia implicit in much of their commentary.  
 
 ### Plot summary
 
