@@ -8,6 +8,11 @@ h1 {
   font-size: 45px;
 }
 
+.jumbotron h1 {
+  color: #fff;
+  text-shadow: 5px 5px 10px #515665;
+}
+
 table, table td, table th {
   border: 2px solid #fff;
   font-size: 15px;
