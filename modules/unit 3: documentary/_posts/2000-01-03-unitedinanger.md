@@ -10,7 +10,10 @@ title: United in Anger
 ### Film background/summary
 *United in Anger: A History of ACT UP* is a documentary directed by Jim Hubbard and produced by Hubbard and Sarah Schulman. The film chronicles the efforts of ACT UP (AIDS Coalition to Unleash Power), a grassroots activist network that used a variety of tactics to raise awareness about HIV/AIDS and challenge discriminatory and harmful practices by the federal government, the Catholic church, the media, etc. The documentary primarily addresses ACT UP's New York chapter's work from 1987-1996. The film relies on archival footage from ACT UP's direct actions, as well as from interviews that Hubbard and Schulman filmed and archived on their website, [The ACT UP Oral History Project](http://www.actuporalhistory.org/). All told, Schulman and Hubbard conducted 187 interviews with ACT UP members for this oral history project in order to preserve the legacy of this activist movement. Schulman and Hubbard also created a [website](https://www.unitedinanger.com/) for the film, which has many helpful resources for additional reading.
 
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4ZacAyc4b8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ### Film link
 [*United in Anger* on YouTube](https://youtu.be/MrAzU79PBVM)
