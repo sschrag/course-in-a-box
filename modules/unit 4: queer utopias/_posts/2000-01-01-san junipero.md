@@ -7,7 +7,7 @@ title: San Junipero in Black Mirror
 <tr><td colspan="2" class="infobox-center">
 
 <a href="/modules/unit 4: queer utopias/sanjunipero.jpg">
-<img src="/modules/unit 4: queerutopias/sanjunipero.jpg" class="infobox-poster" />
+<img src="/modules/unit 4: queer utopias/sanjunipero.jpg" class="infobox-poster" />
 </a></td></tr>
 
 <tr><th scope="row" class="infobox-label">Directed by</th><td class="infobox-data">
