@@ -24,7 +24,6 @@ Jamie Babbit
 <p>heteronormativity</p>
 <p>conversion therapy</p>
 <p>queer failure</p>
-<p>romantic comedy</p>
 
 </td></tr><tr><th colspan="2" class="infobox-center">
 <a href="https://www.amazon.com/But-Im-Cheerleader-Bud-Cort/dp/B00FYJ37DY">
