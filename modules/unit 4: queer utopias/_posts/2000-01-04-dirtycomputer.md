@@ -3,9 +3,29 @@ title: Dirty Computer
 ---
 # *Dirty Computer* (2018)
 
+<table class="infobox"><tbody>
+<tr><td colspan="2" class="infobox-center">
+
 <a href="/modules/unit 4: queer utopias/dirtycomputer.jpg">
-<img src="/modules/unit 4: queer utopias/dirtycomputer.jpg" class="poster">
-</a>
+<img src="/modules/unit 4: queer utopias/dirtycomputer.jpg" class="infobox-poster" />
+</a></td></tr>
+
+<tr><th scope="row" class="infobox-label">Directed by</th><td class="infobox-data">
+Chuck Lightning and Andrew Donoho
+</td></tr><tr><th scope="row" class="infobox-label">Running time</th><td class="infobox-data">
+
+48 min
+
+</td></tr><tr><th scope="row" class="infobox-label">Core concepts this week</th><td class="infobox-data">
+
+<p>Afrofuturism</p>
+<p>queer utopia</p>
+<p>pansexuality</p>
+<p>polyamory</p>
+
+</td></tr><tr><th colspan="2" class="infobox-center">
+<a href="https://www.youtube.com/watch?v=jdH2Sy-BlNE">
+View on Amazon Prime</a></th></tr></tbody></table>
 
 ### Film background
 *Dirty Computer* is the name of Janelle Monáe's third studio album as well as her short film, or "emotion picture" that accompanies it. The film was directed by Chuck Lightning and Andrew Donoho. As in her earlier works, Monáe's music and visuals explore Afrofuturism. More so than in her previous works, *Dirty Computer* aligns her Afrofuturist aesthetic with a vision of freedom that includes queerness, gender fluidity, pansexuality, and polyamory.
@@ -19,12 +39,6 @@ Monáe plays Jane, a so-called “dirty computer” who is captive in facility o
 
 ### Content warnings
 *Dirty Computer* contains some sexually suggestive imagery.
-
-### Running time
-48 min
-
-### Film link
-[*Dirty Computer* on YouTube](https://www.youtube.com/watch?v=jdH2Sy-BlNE)
 
 ### Materials for this week
 * Lesson plans [<a href="/modules/unit 4: queer utopias/Dirty Computer LP.docx" download>Word doc</a>]

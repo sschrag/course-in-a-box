@@ -3,9 +3,31 @@ title: Ma Vie En Rose
 ---
 # *Ma Vie En Rose* ("My Life in Pink") (1997)
 
+<table class="infobox"><tbody>
+<tr><td colspan="2" class="infobox-center">
+
 <a href="/modules/unit 4: queer utopias/mavieenrose.jpg">
-<img src="/modules/unit 4: queer utopias/mavieenrose.jpg" class="poster">
-</a>
+<img src="/modules/unit 4: queer utopias/mavieenrose.jpg" class="infobox-poster" />
+</a></td></tr>
+
+<tr><th scope="row" class="infobox-label">Directed by</th><td class="infobox-data">
+Alain Berliner
+</td></tr><tr><th scope="row" class="infobox-label">Running time</th><td class="infobox-data">
+
+1h 29m
+
+</td></tr><tr><th scope="row" class="infobox-label">Core concepts this week</th><td class="infobox-data">
+
+<p>non-narrativity</p>
+<p>queer failure</p>
+<p>cissexism</p>
+<p>oppositional sexism</p>
+<p>traditional sexism</p>
+<p>trans-misogyny</p>
+
+</td></tr><tr><th colspan="2" class="infobox-center">
+<a href="https://www.amazon.com/Ma-Vie-Rose-Georges-Fresne/dp/B001ELDYU2">
+View on Amazon Prime</a></th></tr></tbody></table>
 
 ### Film background
 *Ma Vie En Rose* was directed by Alain Berliner. It won Best Foreign Language Film at the 1998 Golden Globe Awards. Berliner is Belgian, and the film was primarily shot in France. The film was given an R rating by the MPAA despite the fact that it has virtually no violent or sexual content; some have argued this rating is due to the transphobia inherent in the MPAA rating system.
@@ -19,12 +41,6 @@ At the start of the film, the Fabre family--Hanna (Michèle Laroque), Pierre (Je
 
 ### Content warnings
 *Ma Vie En Rose* contains physically and emotionally abusive behavior towards a young child, as well as a suicide attempt by a young child (sitting in an icebox).  
-
-### Running time
-89 min
-
-### Film link
-[*Ma Vie En Rose* on Amazon Prime](https://www.amazon.com/Ma-Vie-Rose-Georges-Fresne/dp/B001ELDYU2)
 
 ### Notes
 * Note: Day 1 of this week includes a scene analysis alongside another brief excerpt from *Cruising Utopia.* You could assign this excerpt for students to read alongside their screening of *Ma Vie en Rose,* prior to this week's class, or you could have students read it together during the Day 1 class period. Alternatively, you could skip this text excerpt and close-read the scene without it!
