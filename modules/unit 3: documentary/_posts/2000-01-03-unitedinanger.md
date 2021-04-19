@@ -3,20 +3,36 @@ title: United in Anger
 ---
 # *United in Anger: A History of ACT UP* (2012)
 
+<table class="infobox"><tbody>
+<tr><td colspan="2" class="infobox-center">
+
 <a href="/modules/unit 3: documentary/unitedinanger.jpg">
-<img src="/modules/unit 3: documentary/unitedinanger.jpg" class="poster">
-</a>
+<img src="/modules/unit 3: documentary/unitedinanger.jpg" class="infobox-poster" />
+</a></td></tr>
+
+<tr><th scope="row" class="infobox-label">Directed by</th><td class="infobox-data">
+Jim Hubbard
+</td></tr><tr><th scope="row" class="infobox-label">Running time</th><td class="infobox-data">
+
+1h 33m
+
+</td></tr><tr><th scope="row" class="infobox-label">Core concepts this week</th><td class="infobox-data">
+
+<p>oral history</p>
+<p>archival footage</p>
+<p>direct action video</p>
+<p>nostalgia</p>
+<p>queer archive activism</p>
+<p>ACT UP</p>
+
+</td></tr><tr><th colspan="2" class="infobox-center">
+<a href="https://www.amazon.com/United-Anger-History-ACT-UP/dp/B00KEOI2HA">
+View on Amazon Prime</a></th></tr></tbody></table>
 
 ### Film background/summary
 *United in Anger: A History of ACT UP* is a documentary directed by Jim Hubbard and produced by Hubbard and Sarah Schulman. The film chronicles the efforts of ACT UP (AIDS Coalition to Unleash Power), a grassroots activist network that used a variety of tactics to raise awareness about HIV/AIDS and challenge discriminatory and harmful practices by the federal government, the Catholic church, the media, etc. The documentary primarily addresses ACT UP's New York chapter's work from 1987-1996. The film relies on archival footage from ACT UP's direct actions, as well as from interviews that Hubbard and Schulman filmed and archived on their website, [The ACT UP Oral History Project](http://www.actuporalhistory.org/). All told, Schulman and Hubbard conducted 187 interviews with ACT UP members for this oral history project in order to preserve the legacy of this activist movement. Schulman and Hubbard also created a [website](https://www.unitedinanger.com/) for the film, which has many helpful resources for additional reading.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4ZacAyc4b8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Film link
-[*United in Anger* on YouTube](https://youtu.be/MrAzU79PBVM)
-
-### Running time
-1 h, 33 m
 
 ### Content warnings
 *United in Anger* contains extensive discussion of death and grief, and several images of dead bodies.
