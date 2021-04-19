@@ -1,13 +1,13 @@
 ---
-title: San Junipero in Black Mirror
+title: Black Mirror: San Junipero
 ---
-# "San Junipero" in *Black Mirror* (2016)
+# *Black Mirror*: "San Junipero" (2016)
 
 <table class="infobox"><tbody>
 <tr><td colspan="2" class="infobox-center">
 
 <a href="/modules/unit 4: queer utopias/sanjunipero.jpg">
-<img src="/modules/unit 4: queerutopias/sanjunipero.jpg" class="infobox-poster" />
+<img src="/modules/unit 4: queer utopias/sanjunipero.jpg" class="infobox-poster" />
 </a></td></tr>
 
 <tr><th scope="row" class="infobox-label">Directed by</th><td class="infobox-data">
