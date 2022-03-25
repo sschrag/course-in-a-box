@@ -42,7 +42,7 @@ The film begins with Shirin moving out of Maxine's apartment and commiserrating 
 *Appropriate Behavior* contains brief nudity, two sex scenes, sexual humor, and marijuana use.
 
 ### Materials for this week
-* Lesson plans [<a href="/modules/unit 1: comedy/~$propriate Behavior LP.docx" download>Word doc</a>]
+* Lesson plans [<a href="/modules/unit 1: comedy/Appropriate Behavior LP.docx" download>Word doc</a>]
 * Screening quiz [<a href="/modules/unit 1: comedy/Appropriate Behavior Quiz.docx" download>Word doc</a>]
 * Secondary texts:
     * Day 1: [Music Video: Katy Perry, "I Kissed a Girl"](https://www.youtube.com/watch?v=tAp9BKosZXs) (Watch in class)
